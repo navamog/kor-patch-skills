@@ -1,0 +1,318 @@
+# type	english	korean(fill in)	sources
+name	Addington		UnitNames.txt
+name	Agnes		UnitNames.txt
+name	Alexis		UnitNames.txt
+name	Amara		Bosses.txt
+name	Amundsen		Bosses.txt
+name	Apollo		UnitNames.txt
+name	Argent		UnitNames.txt
+name	Arin		UnitNames.txt
+name	Artemis		UnitNames.txt
+name	Athena		UnitNames.txt
+name	Avan		UnitNames.txt
+name	Bechamel		UnitNames.txt
+name	Blader		Bosses.txt
+name	Blair		UnitNames.txt
+name	Bobert		Bosses.txt
+name	Brandl		Bosses.txt
+name	Brentson		Bosses.txt
+name	Briant		Bosses.txt
+name	Bungalas		Bosses.txt
+name	Butch		UnitNames.txt
+name	Callum		UnitNames.txt
+name	Carbon		UnitNames.txt
+name	Cassius		UnitNames.txt
+name	Charley		UnitNames.txt
+name	Chartreuse		UnitNames.txt
+name	Cid		Bosses.txt
+name	Clarque		Bosses.txt
+name	Damien		UnitNames.txt
+name	Davelarn		Bosses.txt
+name	Dean		UnitNames.txt
+name	Desmond		UnitNames.txt
+name	Dirk		UnitNames.txt
+name	Eddie		Bosses.txt
+name	Eduardo		Bosses.txt
+name	Edward		Bosses.txt
+name	Elcorian		UnitNames.txt
+name	Eliza		UnitNames.txt
+name	Emile		UnitNames.txt
+name	Esme		Bosses.txt
+name	Estelle		UnitNames.txt
+name	Ethyl		Bosses.txt
+name	Fiora		Bosses.txt
+name	Flynn		UnitNames.txt
+name	Freddric		UnitNames.txt
+name	Gaylord		UnitNames.txt
+name	Girard		Bosses.txt
+name	Gregorias		Bosses.txt
+name	Helga		Bosses.txt
+name	Hilbert		UnitNames.txt
+name	Hollandaise		UnitNames.txt
+name	Horatio		UnitNames.txt
+name	Hyperius		UnitNames.txt
+name	Ian		UnitNames.txt
+name	Jeff		UnitNames.txt
+name	Joan		UnitNames.txt
+name	Johan		UnitNames.txt
+name	Jonas		Bosses.txt
+name	Josef		UnitNames.txt
+name	Kenneth		UnitNames.txt
+name	Kyrie		UnitNames.txt
+name	Laronde		Bosses.txt
+name	Larson		Bosses.txt
+name	Lazarus		Bosses.txt
+name	Leila		UnitNames.txt
+name	Liam		Bosses.txt
+name	Manfred		UnitNames.txt
+name	Marque		Bosses.txt
+name	Mason		Bosses.txt
+name	Michael		Bosses.txt
+name	Mikey		UnitNames.txt
+name	Mitchell		Bosses.txt
+name	Natasia		UnitNames.txt
+name	Nathaniel		Bosses.txt
+name	Nicole		Bosses.txt
+name	Olsen		UnitNames.txt
+name	Parque		Bosses.txt
+name	Peggy		UnitNames.txt
+name	Pete		Bosses.txt
+name	Peter		UnitNames.txt
+name	Ptolemy		UnitNames.txt
+name	Q		UnitNames.txt
+name	Rachael		UnitNames.txt
+name	Reynard		Bosses.txt
+name	Rift		UnitNames.txt
+name	Roark		Bosses.txt
+name	Rose		UnitNames.txt
+name	Sam		UnitNames.txt
+name	Simone		UnitNames.txt
+name	Sinclair		Bosses.txt
+name	Sofia		Bosses.txt
+name	Sonia		UnitNames.txt
+name	Starque		Bosses.txt
+name	Stefan		UnitNames.txt
+name	Sveltzalus		UnitNames.txt
+name	Tarquin		Bosses.txt
+name	Tobias		UnitNames.txt
+name	Toddsworth		UnitNames.txt
+name	Tonnamin		Bosses.txt
+name	Valden		Bosses.txt
+name	Valeria		Bosses.txt
+name	Victor		Bosses.txt
+name	Viridian		UnitNames.txt
+name	Vladmir		UnitNames.txt
+name	Vulture		Bosses.txt
+name	Wilhelm		UnitNames.txt
+name	Yuyu		UnitNames.txt
+name	Zaine		Bosses.txt
+name	Zeke		UnitNames.txt
+name	i		UnitNames.txt
+place?	About		
+place?	Advanced		
+place?	Aercolyn		
+place?	After		
+place?	Aggressive		
+place?	Alliance		
+place?	Almost		
+place?	Alongside		
+place?	Although		
+place?	Amidst		
+place?	Among		
+place?	Ancient		
+place?	Another		
+place?	Appreciates		
+place?	Aqueduct		
+place?	Arbordia		
+place?	Arbordian		
+place?	Archbishop		
+place?	Archives		
+place?	Ashen		
+place?	Assumedly		
+place?	Avenging		
+place?	Barford		
+place?	Barrens		
+place?	Because		
+place?	Beginnings		
+place?	Blair's		
+place?	Blazing		
+place?	Blood		
+place?	Bonus		
+place?	Border		
+place?	Brilliant		
+place?	Brother		
+place?	Brothers		
+place?	Built		
+place?	Burning		
+place?	Calculating		
+place?	Captain		
+place?	Catharsis		
+place?	Central		
+place?	Cid's		
+place?	Ciraweiss		
+place?	Cocky		
+place?	Commander		
+place?	Considering		
+place?	Cor's		
+place?	Corian		
+place?	Corians		
+place?	Council		
+place?	Couria		
+place?	Dalst		
+place?	Dalst's		
+place?	Dalstian		
+place?	Dalstians		
+place?	Darkness		
+place?	Dedicated		
+place?	Deeply		
+place?	Deliverance		
+place?	Despair		
+place?	Despite		
+place?	Driven		
+place?	Drowning		
+place?	Duplicates		
+place?	Dusts		
+place?	Eldest		
+place?	Empire		
+place?	Endgame		
+place?	Endless		
+place?	Enemies		
+place?	Epilogue		
+place?	Ethyl's		
+place?	Eventually		
+place?	Every		
+place?	Expedition		
+place?	Extremely		
+place?	Faced		
+place?	Fallen		
+place?	Father		
+place?	Fight		
+place?	Flight		
+place?	Found		
+place?	Future		
+place?	General		
+place?	Generally		
+place?	Girard's		
+place?	Gohranos		
+place?	Great		
+place?	Hearing		
+place?	History		
+place?	Holanian		
+place?	Holanis		
+place?	Holanis's		
+place?	However		
+place?	Hyperius's		
+place?	Indeed		
+place?	Indomitable		
+place?	Ineubrenos		
+place?	Ineubris		
+place?	Inquiry		
+place?	Insubordination		
+place?	Interpretations		
+place?	Invasion		
+place?	Jraeyan		
+place?	Kingdom		
+place?	Kingless		
+place?	Kionius		
+place?	Knowledgeable		
+place?	Leader		
+place?	Levelheaded		
+place?	Likes		
+place?	Little		
+place?	Lives		
+place?	Loile		
+place?	Loile's		
+place?	Lowlands		
+place?	Loyal		
+place?	March		
+place?	Masterfully		
+place?	Meanwhile		
+place?	Meeting		
+place?	Mercenaries		
+place?	Mevion		
+place?	Mevion's		
+place?	Mevionese		
+place?	Moneubris		
+place?	Money		
+place?	Morning		
+place?	Mountains		
+place?	Named		
+place?	Nearly		
+place?	Neillstrom		
+place?	Night		
+place?	Obsesses		
+place?	Offense		
+place?	Opistia		
+place?	Opistia's		
+place?	Opistian		
+place?	Opistinia		
+place?	Opistus		
+place?	Opistus's		
+place?	Opposes		
+place?	Orders		
+place?	Parliament		
+place?	Passage		
+place?	Pete's		
+place?	Pirates		
+place?	Prideful		
+place?	Prince		
+place?	Prologue		
+place?	Protective		
+place?	Quick		
+place?	Rather		
+place?	Ready		
+place?	Reborn		
+place?	Recourse		
+place?	Remains		
+place?	Republic		
+place?	Retribution		
+place?	Revolution		
+place?	River		
+place?	Ruled		
+place?	Ruthless		
+place?	Sacrifice		
+place?	Saint		
+place?	Salvation		
+place?	Sands		
+place?	Second		
+place?	Seeks		
+place?	Select		
+place?	Several		
+place?	Shadows		
+place?	Shantymen		
+place?	Similarly		
+place?	Simulacra		
+place?	Since		
+place?	Somewhat		
+place?	Stern		
+place?	Still		
+place?	Survivors		
+place?	Sympathetic		
+place?	Tarquin's		
+place?	Temple		
+place?	Their		
+place?	Theocracy		
+place?	Thinks		
+place?	Those		
+place?	Though		
+place?	Tower		
+place?	Tower's		
+place?	Tradewinds		
+place?	Trouble		
+place?	Ulmaron		
+place?	Ulmaron's		
+place?	Unified		
+place?	Verdant		
+place?	Viridian's		
+place?	Waking		
+place?	Welcome		
+place?	While		
+place?	Wings		
+place?	Within		
+place?	World		
+place?	Yesterday		
+place?	Yg'stra		
+place?	Yg'stran		
+place?	Yg'strans		
+place?	Zeimstadt		
+place?	Zeke's		

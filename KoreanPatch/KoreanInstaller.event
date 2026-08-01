@@ -1,0 +1,76 @@
+// ============================================================
+// TMGC Korean patch installer
+// - Places Korean glyph blocks + extra table in free space
+// - Installs UTF-8 aware text engine (KRTextEngine)
+// - Trampolines the 4 vanilla text primitives to KR_ versions
+// Include this AFTER `ORG FreeSpace` in the buildfile so the
+// glyph data lands in expanded free space.
+// ============================================================
+
+#ifndef _FE8_
+    ERROR "Korean patch: not assembling FE8!"
+#endif
+
+ALIGN 4
+#include "KRFontData.event"      // KRGlyphs_Dialog, KRGlyphs_Menu, KRExtraTable
+
+ALIGN 4
+#include "KRTextEngine.lyn.event" // KR_GetStringTextLen/KR_GetCharTextLen/KR_DrawString/KR_DrawCharacter
+
+// --- trampolines (thumb -> ARM veneer -> POIN target) ---
+PUSH
+ORG $3EDC
+WORD $46C04778 $E59FC000 $E12FFF1C
+POIN KR_GetStringTextLen
+ORG $3F3C
+WORD $46C04778 $E59FC000 $E12FFF1C
+POIN KR_GetCharTextLen
+ORG $4004
+WORD $46C04778 $E59FC000 $E12FFF1C
+POIN KR_DrawString
+ORG $4180
+WORD $46C04778 $E59FC000 $E12FFF1C
+POIN KR_DrawCharacter
+
+// --- the "Ascii" variants ---
+// These are separate FE8 entry points that walk the string one BYTE at a
+// time (`ldrb r0,[r4]` / `add r4,#1`) and look up glyphs[byte] directly.
+// Nothing routed through them can render UTF-8: each Korean syllable is
+// split into 3 bogus glyph lookups. Verified by disassembly that each takes
+// exactly the same arguments as its already-hooked counterpart, so the KR
+// versions drop in unchanged. Symptoms they caused: blank chapter titles,
+// and garbled runs inside item/skill help text.
+ORG $44C8                       // Text_AppendStringAscii(Text*, char*)
+WORD $46C04778 $E59FC000 $E12FFF1C
+POIN KR_DrawString
+ORG $4504                       // Text_DrawStringAscii(Text*, char*)
+WORD $46C04778 $E59FC000 $E12FFF1C
+POIN KR_DrawString
+ORG $4538                       // GetCharTextWidthAscii(char*, u32*) -> char*
+WORD $46C04778 $E59FC000 $E12FFF1C
+POIN KR_GetCharTextLen
+ORG $4568                       // GetStringTextLenAscii(char*) -> int
+WORD $46C04778 $E59FC000 $E12FFF1C
+POIN KR_GetStringTextLen
+POP
+
+// --- title screen wordmark ---
+// Vanilla FE8 art, not part of the buildfiles: an LZ77 stream at 0xAAC5AC that
+// expands to a 256x64 4bpp sheet holding the wordmark twice -- the gold one and
+// the flat copy the title screen sweeps its gleam across. Both are redrawn as
+// 파이어 엠블렘 by KoreanPatch/gen_logo.py. The Korean version compresses to
+// 976 bytes against the original 2351, so it drops into the same slot and
+// nothing needs repointing.
+PUSH
+ORG $AAC5AC
+#incbin "logo.kr.dmp"
+POP
+
+PROTECT $3EDC $3EDC+0x10
+PROTECT $3F3C $3F3C+0x10
+PROTECT $4004 $4004+0x10
+PROTECT $4180 $4180+0x10
+PROTECT $44C8 $44C8+0x10
+PROTECT $4504 $4504+0x10
+PROTECT $4538 $4538+0x10
+PROTECT $4568 $4568+0x10

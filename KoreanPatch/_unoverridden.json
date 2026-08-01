@@ -1,0 +1,6810 @@
+[
+ {
+  "id": "0x0004",
+  "text": "is gone."
+ },
+ {
+  "id": "0x0005",
+  "text": "Got"
+ },
+ {
+  "id": "0x0006",
+  "text": "gold."
+ },
+ {
+  "id": "0x0007",
+  "text": "gold was stolen."
+ },
+ {
+  "id": "0x0008",
+  "text": "Got"
+ },
+ {
+  "id": "0x0009",
+  "text": "was pilfered."
+ },
+ {
+  "id": "0x000A",
+  "text": "Stole"
+ },
+ {
+  "id": "0x000B",
+  "text": "was stolen."
+ },
+ {
+  "id": "0x000D",
+  "text": "You can now use"
+ },
+ {
+  "id": "0x000E",
+  "text": "You can now use"
+ },
+ {
+  "id": "0x000F",
+  "text": "Dropped"
+ },
+ {
+  "id": "0x0010",
+  "text": "Sent"
+ },
+ {
+  "id": "0x0012",
+  "text": "The village was destroyed."
+ },
+ {
+  "id": "0x001D",
+  "text": "Maturity increased."
+ },
+ {
+  "id": "0x001E",
+  "text": "Level lost."
+ },
+ {
+  "id": "0x001F",
+  "text": "Level lost."
+ },
+ {
+  "id": "0x0020",
+  "text": "Disabled trap."
+ },
+ {
+  "id": "0x0021",
+  "text": "Recovered mine."
+ },
+ {
+  "id": "0x0025",
+  "text": "Dummy"
+ },
+ {
+  "id": "0x0026",
+  "text": "Release Entry"
+ },
+ {
+  "id": "0x0027",
+  "text": "Continue Chp."
+ },
+ {
+  "id": "0x0028",
+  "text": "Manual Cont."
+ },
+ {
+  "id": "0x0029",
+  "text": "Initialize File"
+ },
+ {
+  "id": "0x002A",
+  "text": "World Map"
+ },
+ {
+  "id": "0x002B",
+  "text": "Viwer Map"
+ },
+ {
+  "id": "0x002C",
+  "text": "Viewr Face"
+ },
+ {
+  "id": "0x002D",
+  "text": "Viewr BG"
+ },
+ {
+  "id": "0x002E",
+  "text": "MODE Tutorial"
+ },
+ {
+  "id": "0x002F",
+  "text": "MODE Normal"
+ },
+ {
+  "id": "0x0030",
+  "text": "MODE Hard"
+ },
+ {
+  "id": "0x0031",
+  "text": "BASE Capture"
+ },
+ {
+  "id": "0x0032",
+  "text": "BASE Devil A"
+ },
+ {
+  "id": "0x0033",
+  "text": "BASE Devil B"
+ },
+ {
+  "id": "0x0034",
+  "text": "BASE Devil C"
+ },
+ {
+  "id": "0x0035",
+  "text": "N/A"
+ },
+ {
+  "id": "0x0036",
+  "text": "At"
+ },
+ {
+  "id": "0x003A",
+  "text": "blanket100"
+ },
+ {
+  "id": "0x003B",
+  "text": "blanket80"
+ },
+ {
+  "id": "0x003C",
+  "text": "blanket50"
+ },
+ {
+  "id": "0x003D",
+  "text": "move off100"
+ },
+ {
+  "id": "0x003E",
+  "text": "move off80"
+ },
+ {
+  "id": "0x003F",
+  "text": "move off50"
+ },
+ {
+  "id": "0x0040",
+  "text": "none"
+ },
+ {
+  "id": "0x0041",
+  "text": "Natasha off"
+ },
+ {
+  "id": "0x0042",
+  "text": "Douglas"
+ },
+ {
+  "id": "0x0043",
+  "text": "11b citizen off"
+ },
+ {
+  "id": "0x0044",
+  "text": "Lyn"
+ },
+ {
+  "id": "0x0045",
+  "text": "Roy"
+ },
+ {
+  "id": "0x0046",
+  "text": "gate keeper"
+ },
+ {
+  "id": "0x0047",
+  "text": "leader"
+ },
+ {
+  "id": "0x0048",
+  "text": "cure"
+ },
+ {
+  "id": "0x0049",
+  "text": "cure move off"
+ },
+ {
+  "id": "0x004A",
+  "text": "steal"
+ },
+ {
+  "id": "0x004B",
+  "text": "door Open"
+ },
+ {
+  "id": "0x004C",
+  "text": "Ruthea off"
+ },
+ {
+  "id": "0x004D",
+  "text": "Leyvan off"
+ },
+ {
+  "id": "0x004E",
+  "text": "Demon King"
+ },
+ {
+  "id": "0x004F",
+  "text": "near"
+ },
+ {
+  "id": "0x0050",
+  "text": "near Clarine"
+ },
+ {
+  "id": "0x0051",
+  "text": "Douglas"
+ },
+ {
+  "id": "0x0052",
+  "text": "none"
+ },
+ {
+  "id": "0x0053",
+  "text": "loot"
+ },
+ {
+  "id": "0x0054",
+  "text": "loot abscise"
+ },
+ {
+  "id": "0x0056",
+  "text": "2 Clarine"
+ },
+ {
+  "id": "0x0057",
+  "text": "circuit"
+ },
+ {
+  "id": "0x0058",
+  "text": "random"
+ },
+ {
+  "id": "0x0059",
+  "text": "to Eirika"
+ },
+ {
+  "id": "0x005A",
+  "text": "to Ephraim"
+ },
+ {
+  "id": "0x005B",
+  "text": "abscise"
+ },
+ {
+  "id": "0x005C",
+  "text": "to bases"
+ },
+ {
+  "id": "0x005D",
+  "text": "break wall"
+ },
+ {
+  "id": "0x005E",
+  "text": "ignore near"
+ },
+ {
+  "id": "0x005F",
+  "text": "area"
+ },
+ {
+  "id": "0x0060",
+  "text": "1T loot wait"
+ },
+ {
+  "id": "0x0061",
+  "text": "1T near wait"
+ },
+ {
+  "id": "0x0062",
+  "text": "bear"
+ },
+ {
+  "id": "0x0063",
+  "text": "normal"
+ },
+ {
+  "id": "0x0064",
+  "text": "strong"
+ },
+ {
+  "id": "0x0065",
+  "text": "very bear"
+ },
+ {
+  "id": "0x0066",
+  "text": "vert strong"
+ },
+ {
+  "id": "0x0067",
+  "text": "fine"
+ },
+ {
+  "id": "0x0068",
+  "text": "poison"
+ },
+ {
+  "id": "0x0069",
+  "text": "sleep"
+ },
+ {
+  "id": "0x006A",
+  "text": "close"
+ },
+ {
+  "id": "0x006B",
+  "text": "angry"
+ },
+ {
+  "id": "0x006C",
+  "text": "Dance Attack"
+ },
+ {
+  "id": "0x006D",
+  "text": "Dance Defence"
+ },
+ {
+  "id": "0x006E",
+  "text": "Dance Skill"
+ },
+ {
+  "id": "0x006F",
+  "text": "Dance Avoid"
+ },
+ {
+  "id": "0x0070",
+  "text": "sick"
+ },
+ {
+  "id": "0x0071",
+  "text": "recover"
+ },
+ {
+  "id": "0x0072",
+  "text": "stone"
+ },
+ {
+  "id": "0x0073",
+  "text": "shield"
+ },
+ {
+  "id": "0x0074",
+  "text": "stone counterattack"
+ },
+ {
+  "id": "0x0079",
+  "text": "Pos"
+ },
+ {
+  "id": "0x007A",
+  "text": "Total S"
+ },
+ {
+  "id": "0x007B",
+  "text": "Total P"
+ },
+ {
+  "id": "0x007C",
+  "text": "CP Attack"
+ },
+ {
+  "id": "0x007D",
+  "text": "CP Move"
+ },
+ {
+  "id": "0x007E",
+  "text": "Counter"
+ },
+ {
+  "id": "0x007F",
+  "text": "Trust Level"
+ },
+ {
+  "id": "0x0080",
+  "text": "Support"
+ },
+ {
+  "id": "0x0081",
+  "text": "CritAvo"
+ },
+ {
+  "id": "0x0082",
+  "text": "SRAM info"
+ },
+ {
+  "id": "0x0083",
+  "text": "Vct"
+ },
+ {
+  "id": "0x0084",
+  "text": "Dft"
+ },
+ {
+  "id": "0x0085",
+  "text": "Adv"
+ },
+ {
+  "id": "0x0086",
+  "text": "E.D."
+ },
+ {
+  "id": "0x0087",
+  "text": "Pick"
+ },
+ {
+  "id": "0x0089",
+  "text": "Exp"
+ },
+ {
+  "id": "0x008A",
+  "text": "Favorite"
+ },
+ {
+  "id": "0x008B",
+  "text": "This unit has no SRAM information"
+ },
+ {
+  "id": "0x008C",
+  "text": "mastery levels"
+ },
+ {
+  "id": "0x008D",
+  "text": "TURN"
+ },
+ {
+  "id": "0x008E",
+  "text": "2-CP"
+ },
+ {
+  "id": "0x008F",
+  "text": "3-CP"
+ },
+ {
+  "id": "0x0090",
+  "text": "Animation"
+ },
+ {
+  "id": "0x0091",
+  "text": "Terrain"
+ },
+ {
+  "id": "0x0093",
+  "text": "Combat"
+ },
+ {
+  "id": "0x0095",
+  "text": "Autocursor"
+ },
+ {
+  "id": "0x0096",
+  "text": "Text Speed"
+ },
+ {
+  "id": "0x0097",
+  "text": "Game Speed"
+ },
+ {
+  "id": "0x0098",
+  "text": "Music"
+ },
+ {
+  "id": "0x0099",
+  "text": "Sound Effects"
+ },
+ {
+  "id": "0x009A",
+  "text": "Window Color"
+ },
+ {
+  "id": "0x009C",
+  "text": "Autoend Turns"
+ },
+ {
+  "id": "0x009E",
+  "text": "Show Objective"
+ },
+ {
+  "id": "0x009F",
+  "text": "Controller"
+ },
+ {
+  "id": "0x00A0",
+  "text": "Rank Display"
+ },
+ {
+  "id": "0x00BC",
+  "text": "Rank Display"
+ },
+ {
+  "id": "0x00BD",
+  "text": "ON"
+ },
+ {
+  "id": "0x00BE",
+  "text": "OFF"
+ },
+ {
+  "id": "0x00C3",
+  "text": "Slow"
+ },
+ {
+  "id": "0x00C4",
+  "text": "Norm"
+ },
+ {
+  "id": "0x00C5",
+  "text": "Fast"
+ },
+ {
+  "id": "0x00C6",
+  "text": "Max"
+ },
+ {
+  "id": "0x00C7",
+  "text": "Solo"
+ },
+ {
+  "id": "0x00C8",
+  "text": "Strat"
+ },
+ {
+  "id": "0x00C9",
+  "text": "Detail"
+ },
+ {
+  "id": "0x00CA",
+  "text": "Panel"
+ },
+ {
+  "id": "0x00CB",
+  "text": "Burst"
+ },
+ {
+  "id": "0x00CC",
+  "text": "NO DATA"
+ },
+ {
+  "id": "0x0140",
+  "text": "Erase"
+ },
+ {
+  "id": "0x0141",
+  "text": "Back"
+ },
+ {
+  "id": "0x0142",
+  "text": "Cancel"
+ },
+ {
+  "id": "0x0143",
+  "text": "Start"
+ },
+ {
+  "id": "0x0144",
+  "text": "Copy"
+ },
+ {
+  "id": "0x0145",
+  "text": "Save"
+ },
+ {
+  "id": "0x0146",
+  "text": "Entry"
+ },
+ {
+  "id": "0x0147",
+  "text": "Base"
+ },
+ {
+  "id": "0x0148",
+  "text": "LV"
+ },
+ {
+  "id": "0x0156",
+  "text": "N/A"
+ },
+ {
+  "id": "0x0157",
+  "text": "Ch."
+ },
+ {
+  "id": "0x0159",
+  "text": "Final"
+ },
+ {
+  "id": "0x015A",
+  "text": "Prologue"
+ },
+ {
+  "id": "0x015B",
+  "text": "Side"
+ },
+ {
+  "id": "0x015C",
+  "text": "Alter"
+ },
+ {
+  "id": "0x015D",
+  "text": "Turns"
+ },
+ {
+  "id": "0x01B0",
+  "text": "Survive for 11 turns or defeat Aias"
+ },
+ {
+  "id": "0x01B1",
+  "text": "Seize the throne"
+ },
+ {
+  "id": "0x01B2",
+  "text": "Defeat all enemy units"
+ },
+ {
+  "id": "0x01B3",
+  "text": "Seize the throne"
+ },
+ {
+  "id": "0x01B4",
+  "text": "Defeat Lyon"
+ },
+ {
+  "id": "0x01B5",
+  "text": "Defeat all monsters"
+ },
+ {
+  "id": "0x01B6",
+  "text": "Guard Mansel for 13 turns/Defeat Riev"
+ },
+ {
+  "id": "0x01B7",
+  "text": "Seize the lair gate"
+ },
+ {
+  "id": "0x01B8",
+  "text": "Defeat Lyon"
+ },
+ {
+  "id": "0x01B9",
+  "text": "Defeat Fomortiis, the Demon King"
+ },
+ {
+  "id": "0x01BA",
+  "text": "Seize the throne"
+ },
+ {
+  "id": "0x01BB",
+  "text": "Guard Duessel for 10 turns/Defeat Beran"
+ },
+ {
+  "id": "0x01BC",
+  "text": "Defeat all monsters"
+ },
+ {
+  "id": "0x01BD",
+  "text": "Defeat boss"
+ },
+ {
+  "id": "0x01BE",
+  "text": "Defeat all enemy units"
+ },
+ {
+  "id": "0x01BF",
+  "text": "Seize the throne"
+ },
+ {
+  "id": "0x01C0",
+  "text": "Defeat all monsters"
+ },
+ {
+  "id": "0x01C1",
+  "text": "Left"
+ },
+ {
+  "id": "0x01C2",
+  "text": "Turn"
+ },
+ {
+  "id": "0x01C3",
+  "text": "Last Turn"
+ },
+ {
+  "id": "0x01C5",
+  "text": "Plain"
+ },
+ {
+  "id": "0x01C6",
+  "text": "Road"
+ },
+ {
+  "id": "0x01C7",
+  "text": "Village"
+ },
+ {
+  "id": "0x01C8",
+  "text": "Village"
+ },
+ {
+  "id": "0x01C9",
+  "text": "House"
+ },
+ {
+  "id": "0x01CA",
+  "text": "Armory"
+ },
+ {
+  "id": "0x01CB",
+  "text": "Vendor"
+ },
+ {
+  "id": "0x01CC",
+  "text": "Arena"
+ },
+ {
+  "id": "0x01CE",
+  "text": "Fort"
+ },
+ {
+  "id": "0x01CF",
+  "text": "Gate"
+ },
+ {
+  "id": "0x01D0",
+  "text": "Forest"
+ },
+ {
+  "id": "0x01D1",
+  "text": "Thicket"
+ },
+ {
+  "id": "0x01D2",
+  "text": "Sand"
+ },
+ {
+  "id": "0x01D3",
+  "text": "Desert"
+ },
+ {
+  "id": "0x01D4",
+  "text": "River"
+ },
+ {
+  "id": "0x01D5",
+  "text": "Mntn"
+ },
+ {
+  "id": "0x01D6",
+  "text": "Peak"
+ },
+ {
+  "id": "0x01D7",
+  "text": "Bridge"
+ },
+ {
+  "id": "0x01D8",
+  "text": "Bridge"
+ },
+ {
+  "id": "0x01D9",
+  "text": "Sea"
+ },
+ {
+  "id": "0x01DA",
+  "text": "Lake"
+ },
+ {
+  "id": "0x01DB",
+  "text": "Floor"
+ },
+ {
+  "id": "0x01DC",
+  "text": "Floor"
+ },
+ {
+  "id": "0x01DD",
+  "text": "Fence"
+ },
+ {
+  "id": "0x01DE",
+  "text": "Wall"
+ },
+ {
+  "id": "0x01DF",
+  "text": "Wall"
+ },
+ {
+  "id": "0x01E1",
+  "text": "Pillar"
+ },
+ {
+  "id": "0x01E2",
+  "text": "Door"
+ },
+ {
+  "id": "0x01E3",
+  "text": "Throne"
+ },
+ {
+  "id": "0x01E4",
+  "text": "Chest"
+ },
+ {
+  "id": "0x01E5",
+  "text": "Chest"
+ },
+ {
+  "id": "0x01E6",
+  "text": "Roof"
+ },
+ {
+  "id": "0x01E7",
+  "text": "Gate"
+ },
+ {
+  "id": "0x01E8",
+  "text": "Church"
+ },
+ {
+  "id": "0x01E9",
+  "text": "Ruins"
+ },
+ {
+  "id": "0x01EA",
+  "text": "Cliff"
+ },
+ {
+  "id": "0x01EB",
+  "text": "Ballista"
+ },
+ {
+  "id": "0x01EC",
+  "text": "Long B"
+ },
+ {
+  "id": "0x01ED",
+  "text": "Killer B"
+ },
+ {
+  "id": "0x01EE",
+  "text": "Flat"
+ },
+ {
+  "id": "0x01EF",
+  "text": "Wreck"
+ },
+ {
+  "id": "0x01F1",
+  "text": "Stairs"
+ },
+ {
+  "id": "0x01F3",
+  "text": "Glacier"
+ },
+ {
+  "id": "0x01F4",
+  "text": "Arena"
+ },
+ {
+  "id": "0x01F5",
+  "text": "Valley"
+ },
+ {
+  "id": "0x01F6",
+  "text": "Fence"
+ },
+ {
+  "id": "0x01F7",
+  "text": "Snag"
+ },
+ {
+  "id": "0x01F8",
+  "text": "Bridge"
+ },
+ {
+  "id": "0x01F9",
+  "text": "Sky"
+ },
+ {
+  "id": "0x01FA",
+  "text": "Deeps"
+ },
+ {
+  "id": "0x01FB",
+  "text": "Ruins"
+ },
+ {
+  "id": "0x01FC",
+  "text": "Inn"
+ },
+ {
+  "id": "0x01FD",
+  "text": "Barrel"
+ },
+ {
+  "id": "0x01FF",
+  "text": "Dark"
+ },
+ {
+  "id": "0x0200",
+  "text": "Water"
+ },
+ {
+  "id": "0x0201",
+  "text": "Gunnels"
+ },
+ {
+  "id": "0x0202",
+  "text": "Deck"
+ },
+ {
+  "id": "0x0203",
+  "text": "Brace"
+ },
+ {
+  "id": "0x0204",
+  "text": "Mast"
+ },
+ {
+  "id": "0x0205",
+  "text": "Current"
+ },
+ {
+  "id": "0x0206",
+  "text": "Record"
+ },
+ {
+  "id": "0x0207",
+  "text": "# Cleared"
+ },
+ {
+  "id": "0x0208",
+  "text": "Monsters"
+ },
+ {
+  "id": "0x0209",
+  "text": "Exp"
+ },
+ {
+  "id": "0x020A",
+  "text": "Units Used"
+ },
+ {
+  "id": "0x020B",
+  "text": "Turns"
+ },
+ {
+  "id": "0x020C",
+  "text": "Time"
+ },
+ {
+  "id": "0x020E",
+  "text": "1 year ago"
+ },
+ {
+  "id": "0x020F",
+  "text": "1 1/2 years ago"
+ },
+ {
+  "id": "0x0210",
+  "text": "2 years ago"
+ },
+ {
+  "id": "0x0253",
+  "text": "Mercenary"
+ },
+ {
+  "id": "0x0254",
+  "text": "Cutthroat"
+ },
+ {
+  "id": "0x0255",
+  "text": "Monster"
+ },
+ {
+  "id": "0x0256",
+  "text": "Monster"
+ },
+ {
+  "id": "0x0257",
+  "text": "Entombed"
+ },
+ {
+  "id": "0x0258",
+  "text": "Maelduin"
+ },
+ {
+  "id": "0x0259",
+  "text": "Cyclops"
+ },
+ {
+  "id": "0x025A",
+  "text": "Fomortiis"
+ },
+ {
+  "id": "0x025B",
+  "text": "Fado"
+ },
+ {
+  "id": "0x025C",
+  "text": "Hayden"
+ },
+ {
+  "id": "0x025D",
+  "text": "Klimt"
+ },
+ {
+  "id": "0x025E",
+  "text": "Mansel"
+ },
+ {
+  "id": "0x025F",
+  "text": "Dara"
+ },
+ {
+  "id": "0x0260",
+  "text": "Ismaire"
+ },
+ {
+  "id": "0x0261",
+  "text": "Messenger"
+ },
+ {
+  "id": "0x0265",
+  "text": "Renais Cit."
+ },
+ {
+  "id": "0x0266",
+  "text": "River Folk"
+ },
+ {
+  "id": "0x0267",
+  "text": "Enemy"
+ },
+ {
+  "id": "0x0268",
+  "text": "Wall"
+ },
+ {
+  "id": "0x0269",
+  "text": "Snag"
+ },
+ {
+  "id": "0x026A",
+  "text": "Mark"
+ },
+ {
+  "id": "0x026C",
+  "text": "Summonern"
+ },
+ {
+  "id": "0x02BB",
+  "text": "A knight of Rausten, sworn in service to Mansel, the Divine Emperor."
+ },
+ {
+  "id": "0x02BC",
+  "text": "A resident of the capital of Renais, which was seized by Novala."
+ },
+ {
+  "id": "0x02BD",
+  "text": "A citizen living on the river Narube who has been caught up in the war"
+ },
+ {
+  "id": "0x02BE",
+  "text": "Temp.: Enemy Boss"
+ },
+ {
+  "id": "0x02C0",
+  "text": "Great Lord"
+ },
+ {
+  "id": "0x02C1",
+  "text": "Cavalier"
+ },
+ {
+  "id": "0x02C2",
+  "text": "Paladin"
+ },
+ {
+  "id": "0x02C3",
+  "text": "Knight"
+ },
+ {
+  "id": "0x02C4",
+  "text": "General"
+ },
+ {
+  "id": "0x02C5",
+  "text": "Thief"
+ },
+ {
+  "id": "0x02C6",
+  "text": "Mercenary"
+ },
+ {
+  "id": "0x02C7",
+  "text": "Hero"
+ },
+ {
+  "id": "0x02C8",
+  "text": "Myrmidon"
+ },
+ {
+  "id": "0x02C9",
+  "text": "Swordmaster"
+ },
+ {
+  "id": "0x02CA",
+  "text": "Assassin"
+ },
+ {
+  "id": "0x02CB",
+  "text": "Archer"
+ },
+ {
+  "id": "0x02CC",
+  "text": "Sniper"
+ },
+ {
+  "id": "0x02CD",
+  "text": "Ranger"
+ },
+ {
+  "id": "0x02CE",
+  "text": "Wyvern Rider"
+ },
+ {
+  "id": "0x02CF",
+  "text": "Wyvern Lord"
+ },
+ {
+  "id": "0x02D0",
+  "text": "Wyvern Kn."
+ },
+ {
+  "id": "0x02D1",
+  "text": "Mage"
+ },
+ {
+  "id": "0x02D2",
+  "text": "Sage"
+ },
+ {
+  "id": "0x02D3",
+  "text": "Mage Knight"
+ },
+ {
+  "id": "0x02D4",
+  "text": "Bishop"
+ },
+ {
+  "id": "0x02D5",
+  "text": "Nomad"
+ },
+ {
+  "id": "0x02D6",
+  "text": "Nmd Trooper"
+ },
+ {
+  "id": "0x02D7",
+  "text": "Manakete"
+ },
+ {
+  "id": "0x02D8",
+  "text": "Journeyman"
+ },
+ {
+  "id": "0x02D9",
+  "text": "Pupil"
+ },
+ {
+  "id": "0x02DA",
+  "text": "Recruit"
+ },
+ {
+  "id": "0x02DB",
+  "text": "Rogue"
+ },
+ {
+  "id": "0x02DC",
+  "text": "Fighter"
+ },
+ {
+  "id": "0x02DD",
+  "text": "Warrior"
+ },
+ {
+  "id": "0x02DE",
+  "text": "Brigand"
+ },
+ {
+  "id": "0x02DF",
+  "text": "Berserker"
+ },
+ {
+  "id": "0x02E0",
+  "text": "Great Knight"
+ },
+ {
+  "id": "0x02E1",
+  "text": "Shaman"
+ },
+ {
+  "id": "0x02E2",
+  "text": "Druid"
+ },
+ {
+  "id": "0x02E3",
+  "text": "Summoner"
+ },
+ {
+  "id": "0x02E4",
+  "text": "Monk"
+ },
+ {
+  "id": "0x02E5",
+  "text": "Bard"
+ },
+ {
+  "id": "0x02E6",
+  "text": "Priest"
+ },
+ {
+  "id": "0x02E7",
+  "text": "Pegasus Kn."
+ },
+ {
+  "id": "0x02E8",
+  "text": "Falcoknight"
+ },
+ {
+  "id": "0x02E9",
+  "text": "Cleric"
+ },
+ {
+  "id": "0x02EA",
+  "text": "Troubadour"
+ },
+ {
+  "id": "0x02EB",
+  "text": "Valkyrie"
+ },
+ {
+  "id": "0x02EC",
+  "text": "Dancer"
+ },
+ {
+  "id": "0x02ED",
+  "text": "Soldier"
+ },
+ {
+  "id": "0x02EE",
+  "text": "Pirate"
+ },
+ {
+  "id": "0x02EF",
+  "text": "Necromancer"
+ },
+ {
+  "id": "0x02F0",
+  "text": "Fleet"
+ },
+ {
+  "id": "0x02F1",
+  "text": "Phantom"
+ },
+ {
+  "id": "0x02F2",
+  "text": "Revenant"
+ },
+ {
+  "id": "0x02F3",
+  "text": "Entombed"
+ },
+ {
+  "id": "0x02F4",
+  "text": "Bonewalker"
+ },
+ {
+  "id": "0x02F5",
+  "text": "Wight"
+ },
+ {
+  "id": "0x02F6",
+  "text": "Bael"
+ },
+ {
+  "id": "0x02F7",
+  "text": "Elder Bael"
+ },
+ {
+  "id": "0x02F8",
+  "text": "Cyclops"
+ },
+ {
+  "id": "0x02F9",
+  "text": "Mauthe Doog"
+ },
+ {
+  "id": "0x02FA",
+  "text": "Gwyllgi"
+ },
+ {
+  "id": "0x02FB",
+  "text": "Tarvos"
+ },
+ {
+  "id": "0x02FC",
+  "text": "Maelduin"
+ },
+ {
+  "id": "0x02FD",
+  "text": "Mogall"
+ },
+ {
+  "id": "0x02FE",
+  "text": "Arch Mogall"
+ },
+ {
+  "id": "0x02FF",
+  "text": "Gorgon"
+ },
+ {
+  "id": "0x0300",
+  "text": "Gorgon Egg"
+ },
+ {
+  "id": "0x0301",
+  "text": "Gargoyle"
+ },
+ {
+  "id": "0x0302",
+  "text": "Deathgoyle"
+ },
+ {
+  "id": "0x0303",
+  "text": "Draco Zombie"
+ },
+ {
+  "id": "0x0304",
+  "text": "Demon King"
+ },
+ {
+  "id": "0x0305",
+  "text": "Civilian"
+ },
+ {
+  "id": "0x0306",
+  "text": "Pontifex"
+ },
+ {
+  "id": "0x0307",
+  "text": "Queen"
+ },
+ {
+  "id": "0x032E",
+  "text": "Master sorcerers who summon fighters. Equip: Dark, staves. Skill: Summ"
+ },
+ {
+  "id": "0x032F",
+  "text": "Users of light magic with high resistance. Equip: Light."
+ },
+ {
+  "id": "0x0330",
+  "text": "Spiritual guides who use sacred staves to heal allies. Equip: Staves."
+ },
+ {
+  "id": "0x0331",
+  "text": "Musicians whose melodies aid allies. Unable to attack."
+ },
+ {
+  "id": "0x0332",
+  "text": "Unproven knights with dreams of glory. Equip: Lances."
+ },
+ {
+  "id": "0x0333",
+  "text": "Airborne knights who resist magic but are weak against bows. Equip: La"
+ },
+ {
+  "id": "0x0334",
+  "text": "Swift sky warriors who shrug off magic attacks. Equip: Swords, lances."
+ },
+ {
+  "id": "0x0335",
+  "text": "Holy women who use sacred staves to heal their allies. Equip: Staves."
+ },
+ {
+  "id": "0x0336",
+  "text": "Maidens who wield staves from horseback. Equip: Staves."
+ },
+ {
+  "id": "0x0337",
+  "text": "Battle maidens who wield both staves and light magic. Equip: Light, st"
+ },
+ {
+  "id": "0x0338",
+  "text": "Dancers whose dances revitalize their allies. They cannot attack."
+ },
+ {
+  "id": "0x0339",
+  "text": "Average soldiers possessing no special abilities."
+ },
+ {
+  "id": "0x033A",
+  "text": "Tough brawlers who call the sea their home. Equip: Axes."
+ },
+ {
+  "id": "0x033B",
+  "text": "Master of the Dark Stone who uses dark magic to command corpses."
+ },
+ {
+  "id": "0x033C",
+  "text": "Warships that patrol the open seas. They carry powerful ballistae."
+ },
+ {
+  "id": "0x033D",
+  "text": "Phantom warriors who possess great strength but vanish when attacked."
+ },
+ {
+  "id": "0x033E",
+  "text": "Walking corpses that move slowly but attack with sharp claws."
+ },
+ {
+  "id": "0x033F",
+  "text": "Reanimated corpses. They're not fast, but their talons rend flesh with"
+ },
+ {
+  "id": "0x0340",
+  "text": "Dead warriors given will by dark magic. They wield a variety of weapon"
+ },
+ {
+  "id": "0x0341",
+  "text": "Skeletons driven by terrible magic. They can wield many weapons."
+ },
+ {
+  "id": "0x0342",
+  "text": "Giant poisonous mountain spiders with venom-filled fangs."
+ },
+ {
+  "id": "0x0343",
+  "text": "Magic-infused giant spiders. Their venom is lethal."
+ },
+ {
+  "id": "0x0344",
+  "text": "One-eyed giants who use their strength to wield huge axes."
+ },
+ {
+  "id": "0x0345",
+  "text": "Blood-hungry demon dogs that attack with keen-edged fangs."
+ },
+ {
+  "id": "0x0346",
+  "text": "Savage, three-headed hellhounds. Their fangs are cruel death dealers."
+ },
+ {
+  "id": "0x0347",
+  "text": "Vile man-beasts who thunder into combat with colossal axes."
+ },
+ {
+  "id": "0x0348",
+  "text": "Immensely fast and strong creatures who hunt with axes and bows."
+ },
+ {
+  "id": "0x0349",
+  "text": "Perilous floating orbs filled with blighting dark magic."
+ },
+ {
+  "id": "0x034A",
+  "text": "Mogall whose dread power exceeds that of their lesser cousins."
+ },
+ {
+  "id": "0x034B",
+  "text": "Comely and cursed, these creatures turn all who behold them into stone"
+ },
+ {
+  "id": "0x034C",
+  "text": "Eggs of lovely and deadly gorgons."
+ },
+ {
+  "id": "0x034D",
+  "text": "Malignant fiends who hunt with lances. They ride on fell wings."
+ },
+ {
+  "id": "0x034E",
+  "text": "Gargoyles empowered by magic. They are both swift and brutal."
+ },
+ {
+  "id": "0x034F",
+  "text": "The revived corpse of a dragon. Its putrid breath decays all it touche"
+ },
+ {
+  "id": "0x0350",
+  "text": "This foul being is the master of the dark. Its power exceeds mortal ke"
+ },
+ {
+  "id": "0x0351",
+  "text": "An innocent peasant lacking any combat skills at all."
+ },
+ {
+  "id": "0x0352",
+  "text": "Spiritual leader of Rausten. He claims ancestry with the saintly Laton"
+ },
+ {
+  "id": "0x0353",
+  "text": "The kingdom's highest authority. She is a popular ruler of great virtu"
+ },
+ {
+  "id": "0x0354",
+  "text": "Iron Sword"
+ },
+ {
+  "id": "0x0355",
+  "text": "Slim Sword"
+ },
+ {
+  "id": "0x0356",
+  "text": "Steel Sword"
+ },
+ {
+  "id": "0x0357",
+  "text": "Silver Sword"
+ },
+ {
+  "id": "0x0358",
+  "text": "Iron Blade"
+ },
+ {
+  "id": "0x0359",
+  "text": "Steel Blade"
+ },
+ {
+  "id": "0x035A",
+  "text": "Silver Blade"
+ },
+ {
+  "id": "0x035B",
+  "text": "Poison Sword"
+ },
+ {
+  "id": "0x035C",
+  "text": "Rapier"
+ },
+ {
+  "id": "0x035D",
+  "text": "Brave Sword"
+ },
+ {
+  "id": "0x035E",
+  "text": "Shamshir"
+ },
+ {
+  "id": "0x035F",
+  "text": "Killing Edge"
+ },
+ {
+  "id": "0x0360",
+  "text": "Armorslayer"
+ },
+ {
+  "id": "0x0361",
+  "text": "Wyrmslayer"
+ },
+ {
+  "id": "0x0362",
+  "text": "Light Brand"
+ },
+ {
+  "id": "0x0363",
+  "text": "Runesword"
+ },
+ {
+  "id": "0x0364",
+  "text": "Lancereaver"
+ },
+ {
+  "id": "0x0365",
+  "text": "Zanbato"
+ },
+ {
+  "id": "0x0366",
+  "text": "Sieglinde"
+ },
+ {
+  "id": "0x0367",
+  "text": "Audhulma"
+ },
+ {
+  "id": "0x0368",
+  "text": "Wind Sword"
+ },
+ {
+  "id": "0x0369",
+  "text": "Iron Lance"
+ },
+ {
+  "id": "0x036A",
+  "text": "Slim Lance"
+ },
+ {
+  "id": "0x036B",
+  "text": "Steel Lance"
+ },
+ {
+  "id": "0x036C",
+  "text": "Silver Lance"
+ },
+ {
+  "id": "0x036D",
+  "text": "Toxin Lance"
+ },
+ {
+  "id": "0x036E",
+  "text": "Brave Lance"
+ },
+ {
+  "id": "0x036F",
+  "text": "Killer Lance"
+ },
+ {
+  "id": "0x0370",
+  "text": "Horseslayer"
+ },
+ {
+  "id": "0x0371",
+  "text": "Javelin"
+ },
+ {
+  "id": "0x0372",
+  "text": "Spear"
+ },
+ {
+  "id": "0x0373",
+  "text": "Axereaver"
+ },
+ {
+  "id": "0x0374",
+  "text": "Reginleif"
+ },
+ {
+  "id": "0x0375",
+  "text": "Siegmund"
+ },
+ {
+  "id": "0x0376",
+  "text": "Vidofnir"
+ },
+ {
+  "id": "0x0377",
+  "text": "Dragonspear"
+ },
+ {
+  "id": "0x0378",
+  "text": "Heavy Spear"
+ },
+ {
+  "id": "0x0379",
+  "text": "Short Spear"
+ },
+ {
+  "id": "0x037A",
+  "text": "Iron Axe"
+ },
+ {
+  "id": "0x037B",
+  "text": "Steel Axe"
+ },
+ {
+  "id": "0x037C",
+  "text": "Silver Axe"
+ },
+ {
+  "id": "0x037D",
+  "text": "Poison Axe"
+ },
+ {
+  "id": "0x037E",
+  "text": "Brave Axe"
+ },
+ {
+  "id": "0x037F",
+  "text": "Killer Axe"
+ },
+ {
+  "id": "0x0380",
+  "text": "Halberd"
+ },
+ {
+  "id": "0x0381",
+  "text": "Hammer"
+ },
+ {
+  "id": "0x0382",
+  "text": "Devil Axe"
+ },
+ {
+  "id": "0x0383",
+  "text": "Hand Axe"
+ },
+ {
+  "id": "0x0384",
+  "text": "Tomahawk"
+ },
+ {
+  "id": "0x0385",
+  "text": "Swordreaver"
+ },
+ {
+  "id": "0x0386",
+  "text": "Swordslayer"
+ },
+ {
+  "id": "0x0387",
+  "text": "Dragon Axe"
+ },
+ {
+  "id": "0x0388",
+  "text": "Battle Axe"
+ },
+ {
+  "id": "0x0389",
+  "text": "Garm"
+ },
+ {
+  "id": "0x038A",
+  "text": "Hatchet"
+ },
+ {
+  "id": "0x038B",
+  "text": "Iron Bow"
+ },
+ {
+  "id": "0x038C",
+  "text": "Steel Bow"
+ },
+ {
+  "id": "0x038D",
+  "text": "Silver Bow"
+ },
+ {
+  "id": "0x038E",
+  "text": "Poison Bow"
+ },
+ {
+  "id": "0x038F",
+  "text": "Killer Bow"
+ },
+ {
+  "id": "0x0390",
+  "text": "Brave Bow"
+ },
+ {
+  "id": "0x0391",
+  "text": "Short Bow"
+ },
+ {
+  "id": "0x0392",
+  "text": "Longbow"
+ },
+ {
+  "id": "0x0393",
+  "text": "Ballista"
+ },
+ {
+  "id": "0x0394",
+  "text": "Iron Ballista"
+ },
+ {
+  "id": "0x0395",
+  "text": "Killer Ballista"
+ },
+ {
+  "id": "0x0396",
+  "text": "Nidhogg"
+ },
+ {
+  "id": "0x0397",
+  "text": "Wretched Air"
+ },
+ {
+  "id": "0x0398",
+  "text": "Dragonstone"
+ },
+ {
+  "id": "0x0399",
+  "text": "Stone Shard"
+ },
+ {
+  "id": "0x039A",
+  "text": "Demon Light"
+ },
+ {
+  "id": "0x039B",
+  "text": "Ravager"
+ },
+ {
+  "id": "0x039C",
+  "text": "Nightmare"
+ },
+ {
+  "id": "0x039D",
+  "text": "Sharp Claw"
+ },
+ {
+  "id": "0x039E",
+  "text": "Rotten Claw"
+ },
+ {
+  "id": "0x039F",
+  "text": "Fetid Claw"
+ },
+ {
+  "id": "0x03A0",
+  "text": "Poison Claw"
+ },
+ {
+  "id": "0x03A1",
+  "text": "Lethal Talon"
+ },
+ {
+  "id": "0x03A2",
+  "text": "Fiery Fang"
+ },
+ {
+  "id": "0x03A3",
+  "text": "Hellfang"
+ },
+ {
+  "id": "0x03A4",
+  "text": "Shadowkiller"
+ },
+ {
+  "id": "0x03A5",
+  "text": "Bright Lance"
+ },
+ {
+  "id": "0x03A6",
+  "text": "Fiendcleaver"
+ },
+ {
+  "id": "0x03A7",
+  "text": "Beacon Bow"
+ },
+ {
+  "id": "0x03A8",
+  "text": "Emblem Seal"
+ },
+ {
+  "id": "0x03A9",
+  "text": "Fire"
+ },
+ {
+  "id": "0x03AA",
+  "text": "Thunder"
+ },
+ {
+  "id": "0x03AB",
+  "text": "Elfire"
+ },
+ {
+  "id": "0x03AC",
+  "text": "Alacalibur"
+ },
+ {
+  "id": "0x03AD",
+  "text": "Bolting"
+ },
+ {
+  "id": "0x03AE",
+  "text": "Fimbulvetr"
+ },
+ {
+  "id": "0x03AF",
+  "text": "Excalibur"
+ },
+ {
+  "id": "0x03B0",
+  "text": "Lightning"
+ },
+ {
+  "id": "0x03B1",
+  "text": "Shine"
+ },
+ {
+  "id": "0x03B2",
+  "text": "Divine"
+ },
+ {
+  "id": "0x03B3",
+  "text": "Purge"
+ },
+ {
+  "id": "0x03B4",
+  "text": "Aura"
+ },
+ {
+  "id": "0x03B5",
+  "text": "Ivaldi"
+ },
+ {
+  "id": "0x03B6",
+  "text": "Flux"
+ },
+ {
+  "id": "0x03B7",
+  "text": "Luna"
+ },
+ {
+  "id": "0x03B8",
+  "text": "Nosferatu"
+ },
+ {
+  "id": "0x03B9",
+  "text": "Eclipse"
+ },
+ {
+  "id": "0x03BA",
+  "text": "Fenrir"
+ },
+ {
+  "id": "0x03BB",
+  "text": "Gleipnir"
+ },
+ {
+  "id": "0x03BC",
+  "text": "Naglfar"
+ },
+ {
+  "id": "0x03BD",
+  "text": "Stone"
+ },
+ {
+  "id": "0x03BE",
+  "text": "Evil Eye"
+ },
+ {
+  "id": "0x03BF",
+  "text": "Crimson Eye"
+ },
+ {
+  "id": "0x03C0",
+  "text": "Demon Surge"
+ },
+ {
+  "id": "0x03C1",
+  "text": "Shadowshot"
+ },
+ {
+  "id": "0x03C2",
+  "text": "Heal"
+ },
+ {
+  "id": "0x03C3",
+  "text": "Mend"
+ },
+ {
+  "id": "0x03C4",
+  "text": "Recover"
+ },
+ {
+  "id": "0x03C5",
+  "text": "Physic"
+ },
+ {
+  "id": "0x03C6",
+  "text": "Fortify"
+ },
+ {
+  "id": "0x03C7",
+  "text": "Restore"
+ },
+ {
+  "id": "0x03C8",
+  "text": "Silence"
+ },
+ {
+  "id": "0x03C9",
+  "text": "Sleep"
+ },
+ {
+  "id": "0x03CA",
+  "text": "Berserk"
+ },
+ {
+  "id": "0x03CB",
+  "text": "Warp"
+ },
+ {
+  "id": "0x03CC",
+  "text": "Rescue"
+ },
+ {
+  "id": "0x03CD",
+  "text": "Torch"
+ },
+ {
+  "id": "0x03CE",
+  "text": "Hammerne"
+ },
+ {
+  "id": "0x03CF",
+  "text": "Unlock"
+ },
+ {
+  "id": "0x03D0",
+  "text": "Barrier"
+ },
+ {
+  "id": "0x03D1",
+  "text": "Latona"
+ },
+ {
+  "id": "0x03D2",
+  "text": "Dance"
+ },
+ {
+  "id": "0x03D3",
+  "text": "Play"
+ },
+ {
+  "id": "0x03D4",
+  "text": "Angelic Robe"
+ },
+ {
+  "id": "0x03D5",
+  "text": "Energy Ring"
+ },
+ {
+  "id": "0x03D6",
+  "text": "Secret Book"
+ },
+ {
+  "id": "0x03D7",
+  "text": "Speedwing"
+ },
+ {
+  "id": "0x03D8",
+  "text": "Goddess Icon"
+ },
+ {
+  "id": "0x03D9",
+  "text": "Dragonshield"
+ },
+ {
+  "id": "0x03DA",
+  "text": "Talisman"
+ },
+ {
+  "id": "0x03DB",
+  "text": "Swiftsole"
+ },
+ {
+  "id": "0x03DC",
+  "text": "Body Ring"
+ },
+ {
+  "id": "0x03DD",
+  "text": "Hero Crest"
+ },
+ {
+  "id": "0x03DE",
+  "text": "Knight Crest"
+ },
+ {
+  "id": "0x03DF",
+  "text": "Orion's Bolt"
+ },
+ {
+  "id": "0x03E0",
+  "text": "Elysian Whip"
+ },
+ {
+  "id": "0x03E1",
+  "text": "Guiding Ring"
+ },
+ {
+  "id": "0x03E2",
+  "text": "Chest Key"
+ },
+ {
+  "id": "0x03E3",
+  "text": "Door Key"
+ },
+ {
+  "id": "0x03E4",
+  "text": "Lockpick"
+ },
+ {
+  "id": "0x03E5",
+  "text": "Vulnerary"
+ },
+ {
+  "id": "0x03E6",
+  "text": "Elixir"
+ },
+ {
+  "id": "0x03E7",
+  "text": "Pure Water"
+ },
+ {
+  "id": "0x03E8",
+  "text": "Antitoxin"
+ },
+ {
+  "id": "0x03E9",
+  "text": "Torch"
+ },
+ {
+  "id": "0x03EA",
+  "text": "Fili Shield"
+ },
+ {
+  "id": "0x03EB",
+  "text": "Member Card"
+ },
+ {
+  "id": "0x03EC",
+  "text": "Silver Card"
+ },
+ {
+  "id": "0x03ED",
+  "text": "Gold Gem"
+ },
+ {
+  "id": "0x03EE",
+  "text": "Black Gem"
+ },
+ {
+  "id": "0x03EF",
+  "text": "White Gem"
+ },
+ {
+  "id": "0x03F0",
+  "text": "Blue Gem"
+ },
+ {
+  "id": "0x03F1",
+  "text": "Red Gem"
+ },
+ {
+  "id": "0x03F2",
+  "text": "Gold"
+ },
+ {
+  "id": "0x03F3",
+  "text": "Hoplon Guard"
+ },
+ {
+  "id": "0x03F4",
+  "text": "Master Seal"
+ },
+ {
+  "id": "0x03F5",
+  "text": "Metis's Tome"
+ },
+ {
+  "id": "0x03F6",
+  "text": "Ocean Seal"
+ },
+ {
+  "id": "0x03F7",
+  "text": "Lunar Brace"
+ },
+ {
+  "id": "0x03F8",
+  "text": "Solar Brace"
+ },
+ {
+  "id": "0x03F9",
+  "text": "1 Gold"
+ },
+ {
+  "id": "0x03FA",
+  "text": "5 Gold"
+ },
+ {
+  "id": "0x03FB",
+  "text": "10 Gold"
+ },
+ {
+  "id": "0x03FC",
+  "text": "50 Gold"
+ },
+ {
+  "id": "0x03FD",
+  "text": "100 Gold"
+ },
+ {
+  "id": "0x03FE",
+  "text": "150 Gold"
+ },
+ {
+  "id": "0x03FF",
+  "text": "200 Gold"
+ },
+ {
+  "id": "0x0400",
+  "text": "3,000 Gold"
+ },
+ {
+  "id": "0x0401",
+  "text": "5,000 Gold"
+ },
+ {
+  "id": "0x0402",
+  "text": "Juna Fruit"
+ },
+ {
+  "id": "0x0403",
+  "text": "Dummy"
+ },
+ {
+  "id": "0x040B",
+  "text": "Coated in lethal poison."
+ },
+ {
+  "id": "0x040C",
+  "text": "Effective against infantry."
+ },
+ {
+  "id": "0x040D",
+  "text": "Can strike consecutively."
+ },
+ {
+  "id": "0x040E",
+  "text": "Improves critical hit rate."
+ },
+ {
+  "id": "0x040F",
+  "text": "Improves critical hit rate."
+ },
+ {
+  "id": "0x0410",
+  "text": "Effective against knights."
+ },
+ {
+  "id": "0x0411",
+  "text": "Effective against wyverns."
+ },
+ {
+  "id": "0x0412",
+  "text": "Suffused with light magic."
+ },
+ {
+  "id": "0x0413",
+  "text": "Imbued with dark magic."
+ },
+ {
+  "id": "0x0414",
+  "text": "Strong against spears."
+ },
+ {
+  "id": "0x0415",
+  "text": "Effective against cavalry."
+ },
+ {
+  "id": "0x0416",
+  "text": "The Sacred Twin storm blade. Str +5."
+ },
+ {
+  "id": "0x0417",
+  "text": "The Sacred Twin ice blade. Res +5."
+ },
+ {
+  "id": "0x0418",
+  "text": "Capable of indirect attacks."
+ },
+ {
+  "id": "0x041D",
+  "text": "Coated in lethal poison."
+ },
+ {
+  "id": "0x041E",
+  "text": "Can strike consecutively."
+ },
+ {
+  "id": "0x041F",
+  "text": "Improves critical hit rate."
+ },
+ {
+  "id": "0x0420",
+  "text": "Effective against cavalry."
+ },
+ {
+  "id": "0x0421",
+  "text": "Doubles as ranged attack."
+ },
+ {
+  "id": "0x0422",
+  "text": "Doubles as ranged attack."
+ },
+ {
+  "id": "0x0423",
+  "text": "Strong against axes."
+ },
+ {
+  "id": "0x0424",
+  "text": "Strong against cavalry, knights."
+ },
+ {
+  "id": "0x0425",
+  "text": "The Sacred Twin fire lance. Str +5."
+ },
+ {
+  "id": "0x0426",
+  "text": "The Sacred Twin winged lance. Def +5."
+ },
+ {
+  "id": "0x0427",
+  "text": "Effective against wyverns."
+ },
+ {
+  "id": "0x0428",
+  "text": "Effective against knights."
+ },
+ {
+  "id": "0x0429",
+  "text": "Doubles as ranged attack."
+ },
+ {
+  "id": "0x042D",
+  "text": "Coated in lethal poison."
+ },
+ {
+  "id": "0x042E",
+  "text": "Can strike consecutively."
+ },
+ {
+  "id": "0x042F",
+  "text": "Improves critical hit rate."
+ },
+ {
+  "id": "0x0430",
+  "text": "Effective against cavalry."
+ },
+ {
+  "id": "0x0431",
+  "text": "Effective against knights."
+ },
+ {
+  "id": "0x0432",
+  "text": "Might injure its wielder."
+ },
+ {
+  "id": "0x0433",
+  "text": "Doubles as ranged attack."
+ },
+ {
+  "id": "0x0434",
+  "text": "Doubles as ranged attack."
+ },
+ {
+  "id": "0x0435",
+  "text": "Strong against swords."
+ },
+ {
+  "id": "0x0436",
+  "text": "Good against swordfighters."
+ },
+ {
+  "id": "0x0437",
+  "text": "Effective against wyverns."
+ },
+ {
+  "id": "0x0438",
+  "text": "The Sacred Twin black axe. Spd +5."
+ },
+ {
+  "id": "0x0439",
+  "text": "Strong, but difficult to wield."
+ },
+ {
+  "id": "0x043A",
+  "text": "Lightweight and easy to hit with."
+ },
+ {
+  "id": "0x043E",
+  "text": "Coated in lethal poison."
+ },
+ {
+  "id": "0x043F",
+  "text": "Improves critical hit rate."
+ },
+ {
+  "id": "0x0440",
+  "text": "Can strike consecutively."
+ },
+ {
+  "id": "0x0441",
+  "text": "Improves critical hit rate."
+ },
+ {
+  "id": "0x0442",
+  "text": "Extended attack range."
+ },
+ {
+  "id": "0x0443",
+  "text": "Long-range weapon."
+ },
+ {
+  "id": "0x0444",
+  "text": "Super long-range weapon."
+ },
+ {
+  "id": "0x0445",
+  "text": "Improves critical hit rate."
+ },
+ {
+  "id": "0x0446",
+  "text": "The Sacred Twin serpent bow. Luck +5."
+ },
+ {
+  "id": "0x0447",
+  "text": "The breath of a dragon corpse. It decays everything it touches."
+ },
+ {
+  "id": "0x0448",
+  "text": "A stone imbued with mysterious might. Myrrh draws strength from it."
+ },
+ {
+  "id": "0x0449",
+  "text": "DUMMY"
+ },
+ {
+  "id": "0x044A",
+  "text": "A malefic flash that destroys everything it touches."
+ },
+ {
+  "id": "0x044B",
+  "text": "A horrific blow that invites the destruction of all."
+ },
+ {
+  "id": "0x044C",
+  "text": "Lulls all enemies within range into a deep slumber."
+ },
+ {
+  "id": "0x044D",
+  "text": "A keen, flesh-tearing claw."
+ },
+ {
+  "id": "0x044E",
+  "text": "A sharpened, decayed claw."
+ },
+ {
+  "id": "0x044F",
+  "text": "A foul talon meant to rend flesh."
+ },
+ {
+  "id": "0x0450",
+  "text": "A claw dripping with poison."
+ },
+ {
+  "id": "0x0451",
+  "text": "A claw slathered in deadly poison."
+ },
+ {
+  "id": "0x0452",
+  "text": "A sharp, piercing fang."
+ },
+ {
+  "id": "0x0453",
+  "text": "A long, daggerlike fang."
+ },
+ {
+  "id": "0x0454",
+  "text": "Effective against monsters."
+ },
+ {
+  "id": "0x0455",
+  "text": "Effective against monsters."
+ },
+ {
+  "id": "0x0456",
+  "text": "Effective against monsters."
+ },
+ {
+  "id": "0x0457",
+  "text": "Effective against monsters."
+ },
+ {
+  "id": "0x045C",
+  "text": "Long-range lightning strike."
+ },
+ {
+  "id": "0x045E",
+  "text": "A Sacred Twin tome. Spd +5."
+ },
+ {
+  "id": "0x0462",
+  "text": "Long-range magic attack."
+ },
+ {
+  "id": "0x0464",
+  "text": "A Sacred Twin tome. Def +5."
+ },
+ {
+  "id": "0x0466",
+  "text": "Negates enemy resistance."
+ },
+ {
+  "id": "0x0467",
+  "text": "Drains enemy HP into caster."
+ },
+ {
+  "id": "0x0468",
+  "text": "Reduces enemy HP by half."
+ },
+ {
+  "id": "0x046A",
+  "text": "A Sacred Twin tome. Skill +5."
+ },
+ {
+  "id": "0x046C",
+  "text": "Turns targets to stone for a while."
+ },
+ {
+  "id": "0x0470",
+  "text": "Long-range dark magic bolt."
+ },
+ {
+  "id": "0x0471",
+  "text": "Restores HP to allies in adjacent spaces."
+ },
+ {
+  "id": "0x0472",
+  "text": "Restores many HP to allies in adjacent spaces."
+ },
+ {
+  "id": "0x0473",
+  "text": "Restores all HP to allies in adjacent spaces."
+ },
+ {
+  "id": "0x0474",
+  "text": "Restores HP to allies at a distance."
+ },
+ {
+  "id": "0x0475",
+  "text": "Restores all HP to allies nearby."
+ },
+ {
+  "id": "0x0476",
+  "text": "Returns allies to normal condition. (Cures sleep, etc.)"
+ },
+ {
+  "id": "0x0477",
+  "text": "Halts all enemy magic for several turns."
+ },
+ {
+  "id": "0x0478",
+  "text": "Puts enemies to sleep for several turns."
+ },
+ {
+  "id": "0x0479",
+  "text": "Sends enemies into a berserker rage."
+ },
+ {
+  "id": "0x047A",
+  "text": "Moves allies in adjacent spaces instantly elsewhere."
+ },
+ {
+  "id": "0x047B",
+  "text": "Moves allies from distant spaces to adjacent ones."
+ },
+ {
+  "id": "0x047C",
+  "text": "Lights an area. The light grows weaker each turn."
+ },
+ {
+  "id": "0x047D",
+  "text": "Restores an adjacent ally's weapons to new condition."
+ },
+ {
+  "id": "0x047E",
+  "text": "Unlocks doors, even from a distance."
+ },
+ {
+  "id": "0x047F",
+  "text": "Increases magic resistance of adjacent allies briefly."
+ },
+ {
+  "id": "0x0480",
+  "text": "A Sacred Twin staff. The ancient Staff of Latona."
+ },
+ {
+  "id": "0x0481",
+  "text": "A dance that allows allies to move again."
+ },
+ {
+  "id": "0x0482",
+  "text": "A song that allows allies to move again."
+ },
+ {
+  "id": "0x0483",
+  "text": "Increases HP by a max of 7 points. Vanishes after use."
+ },
+ {
+  "id": "0x0484",
+  "text": "Increases Mag or Str by 2 points. Vanishes after use."
+ },
+ {
+  "id": "0x0485",
+  "text": "Increases Skill by 2 points. Vanishes after use."
+ },
+ {
+  "id": "0x0486",
+  "text": "Increases speed by 2 points. Vanishes after use."
+ },
+ {
+  "id": "0x0487",
+  "text": "Increases luck by 2 points. Vanishes after use."
+ },
+ {
+  "id": "0x0488",
+  "text": "Increases defense by 2 points. Vanishes after use."
+ },
+ {
+  "id": "0x0489",
+  "text": "Increases resistance by 2 points. Vanishes after use."
+ },
+ {
+  "id": "0x048A",
+  "text": "Increases movement by 2 points. Vanishes after use."
+ },
+ {
+  "id": "0x048B",
+  "text": "Increases constitution by 2 points. Vanishes after use."
+ },
+ {
+  "id": "0x048C",
+  "text": "For mercenaries, myrmidons, and fighters Lv. 10 and up."
+ },
+ {
+  "id": "0x048D",
+  "text": "For knights and cavaliers Lv. 10 and up."
+ },
+ {
+  "id": "0x048E",
+  "text": "For archers Lv. 10 and up."
+ },
+ {
+  "id": "0x048F",
+  "text": "For pegasus knights and wyvern riders Lv. 10 and up."
+ },
+ {
+  "id": "0x0490",
+  "text": "For magic wielders and troubadours Lv. 10 and up."
+ },
+ {
+  "id": "0x0491",
+  "text": "Opens chests."
+ },
+ {
+  "id": "0x0492",
+  "text": "Opens doors in adjacent spaces."
+ },
+ {
+  "id": "0x0493",
+  "text": "Opens doors and chests. Usable only by thieves."
+ },
+ {
+  "id": "0x0494",
+  "text": "A medicinal solution used for healing minor wounds."
+ },
+ {
+  "id": "0x0495",
+  "text": "A powerful solution that restores all HP."
+ },
+ {
+  "id": "0x0496",
+  "text": "A draught that boosts Res. Grows weaker each turn."
+ },
+ {
+  "id": "0x0497",
+  "text": "A medicinal solution that cures poison."
+ },
+ {
+  "id": "0x0498",
+  "text": "A staff with burning pitch. Grows dimmer each turn."
+ },
+ {
+  "id": "0x0499",
+  "text": "An amulet that protects fliers from arrows."
+ },
+ {
+  "id": "0x049A",
+  "text": "If someone with this card stops in a suspicious space..."
+ },
+ {
+  "id": "0x049B",
+  "text": "A special card that reduces the cost of all items by half."
+ },
+ {
+  "id": "0x049C",
+  "text": "A valuable gemstone worth 20,000 gold."
+ },
+ {
+  "id": "0x049D",
+  "text": "A valuable gemstone worth 15,000 gold."
+ },
+ {
+  "id": "0x049E",
+  "text": "A valuable gemstone worth 10,000 gold."
+ },
+ {
+  "id": "0x049F",
+  "text": "A rare gemstone worth 5,000 gold."
+ },
+ {
+  "id": "0x04A0",
+  "text": "An uncommon gemstone worth 2,500 gold."
+ },
+ {
+  "id": "0x04A1",
+  "text": "A bag full of money."
+ },
+ {
+  "id": "0x04A2",
+  "text": "A trap that damages units that step on it."
+ },
+ {
+  "id": "0x04A3",
+  "text": "A device that blocks units from entering spaces."
+ },
+ {
+  "id": "0x04A4",
+  "text": "A device that negates enemy critical attacks."
+ },
+ {
+  "id": "0x04A5",
+  "text": "For some units Lv. 10 and up who have not changed class."
+ },
+ {
+  "id": "0x04A6",
+  "text": "Gives a little treat to the unit that uses it."
+ },
+ {
+  "id": "0x04A7",
+  "text": "For use by thieves and pirates Lv. 10 and up."
+ },
+ {
+  "id": "0x04A8",
+  "text": "For use by Eirika, princess of Renais."
+ },
+ {
+  "id": "0x04A9",
+  "text": "For use by Ephraim, prince of Renais."
+ },
+ {
+  "id": "0x04AA",
+  "text": "Give this to a worthy unit and see what happens."
+ },
+ {
+  "id": "0x04AB",
+  "text": "DUMMY"
+ },
+ {
+  "id": "0x04AC",
+  "text": "Draco Zombie only."
+ },
+ {
+  "id": "0x04AD",
+  "text": "Manakete only."
+ },
+ {
+  "id": "0x04AE",
+  "text": "Creatures only."
+ },
+ {
+  "id": "0x04AF",
+  "text": "Restores some HP."
+ },
+ {
+  "id": "0x04B0",
+  "text": "Restores more HP."
+ },
+ {
+  "id": "0x04B1",
+  "text": "Restores all HP."
+ },
+ {
+  "id": "0x04B2",
+  "text": "Restores HP to distant allies."
+ },
+ {
+  "id": "0x04B3",
+  "text": "Restores HP to all allies in one area."
+ },
+ {
+  "id": "0x04B4",
+  "text": "Restores allies to normal status."
+ },
+ {
+  "id": "0x04B5",
+  "text": "Blocks enemy magic."
+ },
+ {
+  "id": "0x04B6",
+  "text": "Puts enemies to sleep."
+ },
+ {
+  "id": "0x04B7",
+  "text": "Drives enemies to attack wildly in a frenzy of rage."
+ },
+ {
+  "id": "0x04B8",
+  "text": "Warps allies to other spaces."
+ },
+ {
+  "id": "0x04B9",
+  "text": "Warps allies to a space adjacent to the staff wielder."
+ },
+ {
+  "id": "0x04BA",
+  "text": "Lights up an area."
+ },
+ {
+  "id": "0x04BB",
+  "text": "Restores items to new condition."
+ },
+ {
+  "id": "0x04BC",
+  "text": "Opens doors."
+ },
+ {
+  "id": "0x04BD",
+  "text": "Raises resistance."
+ },
+ {
+  "id": "0x04BE",
+  "text": "Restores all HP as well as allies' status."
+ },
+ {
+  "id": "0x04BF",
+  "text": "Allows allies to move again."
+ },
+ {
+  "id": "0x04C0",
+  "text": "Allows allies to move again."
+ },
+ {
+  "id": "0x04C1",
+  "text": "Raises Max HP."
+ },
+ {
+  "id": "0x04C2",
+  "text": "Raises either strength or magic."
+ },
+ {
+  "id": "0x04C3",
+  "text": "Raises skill."
+ },
+ {
+  "id": "0x04C4",
+  "text": "Raises speed."
+ },
+ {
+  "id": "0x04C5",
+  "text": "Raises luck."
+ },
+ {
+  "id": "0x04C6",
+  "text": "Raises defense."
+ },
+ {
+  "id": "0x04C7",
+  "text": "Raises resistance."
+ },
+ {
+  "id": "0x04C8",
+  "text": "Raises movement."
+ },
+ {
+  "id": "0x04C9",
+  "text": "Raises constitution."
+ },
+ {
+  "id": "0x04CA",
+  "text": "Use this on a worthy mercenary, fighter, or myrmidon."
+ },
+ {
+  "id": "0x04CB",
+  "text": "Use this on a worthy cavalier or knight."
+ },
+ {
+  "id": "0x04CC",
+  "text": "Use this on a worthy archer."
+ },
+ {
+  "id": "0x04CD",
+  "text": "Use this on a worthy master of a winged mount."
+ },
+ {
+  "id": "0x04CE",
+  "text": "Use this on a worthy wielder of magic power and staves."
+ },
+ {
+  "id": "0x04CF",
+  "text": "Opens chests."
+ },
+ {
+  "id": "0x04D0",
+  "text": "Opens doors."
+ },
+ {
+  "id": "0x04D1",
+  "text": "Universal lockpicks designed for thieves."
+ },
+ {
+  "id": "0x04D2",
+  "text": "Restores some HP."
+ },
+ {
+  "id": "0x04D3",
+  "text": "Restores all HP."
+ },
+ {
+  "id": "0x04D4",
+  "text": "Reduces damage from magic attacks."
+ },
+ {
+  "id": "0x04D5",
+  "text": "Cures poison."
+ },
+ {
+  "id": "0x04D6",
+  "text": "Lights an area."
+ },
+ {
+  "id": "0x04D7",
+  "text": "Protects airborne units from bows."
+ },
+ {
+  "id": "0x04D8",
+  "text": "Grants access to secret shops."
+ },
+ {
+  "id": "0x04D9",
+  "text": "Reduces the cost of items."
+ },
+ {
+  "id": "0x04DB",
+  "text": "Units that enter spaces where these are take damage."
+ },
+ {
+  "id": "0x04DC",
+  "text": "Units cannot enter spaces where these have been placed."
+ },
+ {
+  "id": "0x04DD",
+  "text": "Negates enemies' critical attacks."
+ },
+ {
+  "id": "0x04DE",
+  "text": "Use this on a unit Lv. 10 and up who has yet to change class."
+ },
+ {
+  "id": "0x04DF",
+  "text": "Give this to a unit you like."
+ },
+ {
+  "id": "0x04E0",
+  "text": "Use this on a worthy thief or pirate."
+ },
+ {
+  "id": "0x04E1",
+  "text": "Have Eirika use this when she's ready."
+ },
+ {
+  "id": "0x04E2",
+  "text": "Have Ephraim use this when he's ready."
+ },
+ {
+  "id": "0x04E3",
+  "text": "Use this, and..."
+ },
+ {
+  "id": "0x04E4",
+  "text": "Dummy"
+ },
+ {
+  "id": "0x04E5",
+  "text": "Name"
+ },
+ {
+  "id": "0x04E6",
+  "text": "Class"
+ },
+ {
+  "id": "0x04E7",
+  "text": "Lv"
+ },
+ {
+  "id": "0x04E8",
+  "text": "Exp"
+ },
+ {
+  "id": "0x04E9",
+  "text": "HP"
+ },
+ {
+  "id": "0x04EA",
+  "text": "Max"
+ },
+ {
+  "id": "0x04EB",
+  "text": "S/M"
+ },
+ {
+  "id": "0x04EC",
+  "text": "Skill"
+ },
+ {
+  "id": "0x04ED",
+  "text": "Spd"
+ },
+ {
+  "id": "0x04EF",
+  "text": "Def"
+ },
+ {
+  "id": "0x04F0",
+  "text": "Res"
+ },
+ {
+  "id": "0x04F2",
+  "text": "Equip"
+ },
+ {
+  "id": "0x04F3",
+  "text": "Atk"
+ },
+ {
+  "id": "0x04F4",
+  "text": "Hit"
+ },
+ {
+  "id": "0x04F7",
+  "text": "Con"
+ },
+ {
+  "id": "0x04F8",
+  "text": "Aid"
+ },
+ {
+  "id": "0x04F9",
+  "text": "Trv"
+ },
+ {
+  "id": "0x04FA",
+  "text": "Cond"
+ },
+ {
+  "id": "0x04FB",
+  "text": "Ally"
+ },
+ {
+  "id": "0x04FC",
+  "text": "Anim"
+ },
+ {
+  "id": "0x04FD",
+  "text": "Sort:"
+ },
+ {
+  "id": "0x04FE",
+  "text": "Str"
+ },
+ {
+  "id": "0x04FF",
+  "text": "Mag"
+ },
+ {
+  "id": "0x0500",
+  "text": "Rng"
+ },
+ {
+  "id": "0x0501",
+  "text": "Crit"
+ },
+ {
+  "id": "0x0502",
+  "text": "Wt"
+ },
+ {
+  "id": "0x0503",
+  "text": "Mt"
+ },
+ {
+  "id": "0x0504",
+  "text": "AS"
+ },
+ {
+  "id": "0x0505",
+  "text": "Sword"
+ },
+ {
+  "id": "0x0506",
+  "text": "Lance"
+ },
+ {
+  "id": "0x0507",
+  "text": "Axe"
+ },
+ {
+  "id": "0x0508",
+  "text": "Bow"
+ },
+ {
+  "id": "0x0509",
+  "text": "Staff"
+ },
+ {
+  "id": "0x050A",
+  "text": "Anima"
+ },
+ {
+  "id": "0x050B",
+  "text": "Light"
+ },
+ {
+  "id": "0x050C",
+  "text": "Dark"
+ },
+ {
+  "id": "0x050D",
+  "text": "Item"
+ },
+ {
+  "id": "0x050E",
+  "text": "Bllsta"
+ },
+ {
+  "id": "0x050F",
+  "text": "Dragon"
+ },
+ {
+  "id": "0x0510",
+  "text": "Fire"
+ },
+ {
+  "id": "0x0511",
+  "text": "Thunder"
+ },
+ {
+  "id": "0x0512",
+  "text": "Wind"
+ },
+ {
+  "id": "0x0513",
+  "text": "Ice"
+ },
+ {
+  "id": "0x0514",
+  "text": "Poison"
+ },
+ {
+  "id": "0x0515",
+  "text": "Sleep"
+ },
+ {
+  "id": "0x0516",
+  "text": "Silence"
+ },
+ {
+  "id": "0x0517",
+  "text": "Berserk"
+ },
+ {
+  "id": "0x0518",
+  "text": "Sick"
+ },
+ {
+  "id": "0x0519",
+  "text": "Recovr"
+ },
+ {
+  "id": "0x051A",
+  "text": "Petrify"
+ },
+ {
+  "id": "0x051B",
+  "text": "Attack"
+ },
+ {
+  "id": "0x051C",
+  "text": "Defend"
+ },
+ {
+  "id": "0x051D",
+  "text": "Critical"
+ },
+ {
+  "id": "0x051E",
+  "text": "Dodge"
+ },
+ {
+  "id": "0x0522",
+  "text": "MP/2"
+ },
+ {
+  "id": "0x052A",
+  "text": "Total"
+ },
+ {
+  "id": "0x053B",
+  "text": "Assets"
+ },
+ {
+  "id": "0x053C",
+  "text": "Time"
+ },
+ {
+  "id": "0x053D",
+  "text": "Total"
+ },
+ {
+  "id": "0x053E",
+  "text": "Normal"
+ },
+ {
+  "id": "0x053F",
+  "text": "Hard"
+ },
+ {
+  "id": "0x0540",
+  "text": "Complete"
+ },
+ {
+  "id": "0x0541",
+  "text": "Total"
+ },
+ {
+  "id": "0x0552",
+  "text": "Normal. Feeling healthy."
+ },
+ {
+  "id": "0x0553",
+  "text": "Ooooog... Poison slowly steals HP."
+ },
+ {
+  "id": "0x0554",
+  "text": "Zzzz... Zzzzz... Sleeping now... Can't move..."
+ },
+ {
+  "id": "0x0555",
+  "text": "Rarrrrr! Attack the nearest unit, be it friend or foe!"
+ },
+ {
+  "id": "0x0556",
+  "text": "...... Magic and staves are unusable."
+ },
+ {
+  "id": "0x0557",
+  "text": "Craaack! Turned...to... stone. Can't...move!"
+ },
+ {
+  "id": "0x0558",
+  "text": "Attack power is increased, thanks to Filla's Might."
+ },
+ {
+  "id": "0x055A",
+  "text": "Critical hit 0s increased, thanks to Thor's Ire."
+ },
+ {
+  "id": "0x055B",
+  "text": "Dodge is increased, thanks to Set's Litany."
+ },
+ {
+  "id": "0x0561",
+  "text": "Sword mastery level."
+ },
+ {
+  "id": "0x0562",
+  "text": "Lance mastery level."
+ },
+ {
+  "id": "0x0563",
+  "text": "Axe mastery level."
+ },
+ {
+  "id": "0x0564",
+  "text": "Bow mastery level."
+ },
+ {
+  "id": "0x0565",
+  "text": "Anima magic mastery level."
+ },
+ {
+  "id": "0x0566",
+  "text": "Light magic mastery level."
+ },
+ {
+  "id": "0x0567",
+  "text": "Dark magic mastery level."
+ },
+ {
+  "id": "0x0568",
+  "text": "Staff mastery level."
+ },
+ {
+  "id": "0x0569",
+  "text": "Strengthen the bond between units by talking."
+ },
+ {
+  "id": "0x056A",
+  "text": "The name of the unit to whom you can talk."
+ },
+ {
+  "id": "0x056B",
+  "text": "Weapon or magic in use."
+ },
+ {
+  "id": "0x056C",
+  "text": "Weapon or magic in use. Does more damage than normal."
+ },
+ {
+  "id": "0x056D",
+  "text": "Wielder and weapon are well suited. Hit % and power increase."
+ },
+ {
+  "id": "0x056E",
+  "text": "Wielder and weapon are well suited. Hit % and dmg increase."
+ },
+ {
+  "id": "0x056F",
+  "text": "Wielder and weapon are ill suited. Hit % and power decrease."
+ },
+ {
+  "id": "0x0570",
+  "text": "Wielder and weapon are ill suited. Hit % and power decrease."
+ },
+ {
+  "id": "0x0571",
+  "text": "Damage this weapon will do. x2 = two attacks, x4 = four."
+ },
+ {
+  "id": "0x0572",
+  "text": "Attack Speed. Determines number of attacks."
+ },
+ {
+  "id": "0x0573",
+  "text": "Defense. Decreases damage from attacks."
+ },
+ {
+  "id": "0x0574",
+  "text": "Pick Units"
+ },
+ {
+  "id": "0x0575",
+  "text": "Fortune"
+ },
+ {
+  "id": "0x0576",
+  "text": "Items"
+ },
+ {
+  "id": "0x0578",
+  "text": "Check Map"
+ },
+ {
+  "id": "0x0579",
+  "text": "Save"
+ },
+ {
+  "id": "0x057B",
+  "text": "Manage your units' items. Item names that appear in gray cannot be use"
+ },
+ {
+  "id": "0x057F",
+  "text": "Check the compatibility of your units."
+ },
+ {
+  "id": "0x0582",
+  "text": "The battle will begin. You can also press START to begin."
+ },
+ {
+  "id": "0x0583",
+  "text": "Choose unit"
+ },
+ {
+  "id": "0x0585",
+  "text": "Are you sure?"
+ },
+ {
+  "id": "0x0586",
+  "text": "Rank"
+ },
+ {
+  "id": "0x0587",
+  "text": "Tactician"
+ },
+ {
+  "id": "0x0588",
+  "text": "Augury"
+ },
+ {
+  "id": "0x0589",
+  "text": "Augury Menu"
+ },
+ {
+  "id": "0x058A",
+  "text": "Tactics"
+ },
+ {
+  "id": "0x058B",
+  "text": "Survival"
+ },
+ {
+  "id": "0x058C",
+  "text": "Funds"
+ },
+ {
+  "id": "0x058D",
+  "text": "Exp"
+ },
+ {
+  "id": "0x058E",
+  "text": "Combat"
+ },
+ {
+  "id": "0x058F",
+  "text": "Objective"
+ },
+ {
+  "id": "0x0590",
+  "text": "View Map"
+ },
+ {
+  "id": "0x0591",
+  "text": "Formation"
+ },
+ {
+  "id": "0x0592",
+  "text": "Options"
+ },
+ {
+  "id": "0x0593",
+  "text": "Debug"
+ },
+ {
+  "id": "0x0594",
+  "text": "Trade"
+ },
+ {
+  "id": "0x0595",
+  "text": "List"
+ },
+ {
+  "id": "0x0596",
+  "text": "Use"
+ },
+ {
+  "id": "0x0597",
+  "text": "Sell"
+ },
+ {
+  "id": "0x0598",
+  "text": "Supply"
+ },
+ {
+  "id": "0x0599",
+  "text": "Armory"
+ },
+ {
+  "id": "0x059A",
+  "text": "Give all"
+ },
+ {
+  "id": "0x059B",
+  "text": "Sell?"
+ },
+ {
+  "id": "0x059C",
+  "text": "Sell Quit"
+ },
+ {
+  "id": "0x059D",
+  "text": "Value"
+ },
+ {
+  "id": "0x059E",
+  "text": "Give"
+ },
+ {
+  "id": "0x059F",
+  "text": "Take"
+ },
+ {
+  "id": "0x05A0",
+  "text": "Stock"
+ },
+ {
+  "id": "0x05A1",
+  "text": "Pick"
+ },
+ {
+  "id": "0x05A2",
+  "text": "Units Left"
+ },
+ {
+  "id": "0x05A3",
+  "text": "Sell unwanted items."
+ },
+ {
+  "id": "0x05A4",
+  "text": "Are you sure?"
+ },
+ {
+  "id": "0x05A5",
+  "text": "What'll you do?"
+ },
+ {
+  "id": "0x05A6",
+  "text": "I'll take it."
+ },
+ {
+  "id": "0x05A7",
+  "text": "Here you go!"
+ },
+ {
+  "id": "0x05A8",
+  "text": "Nothing"
+ },
+ {
+  "id": "0x05A9",
+  "text": "Owner:"
+ },
+ {
+  "id": "0x05AA",
+  "text": "Success"
+ },
+ {
+  "id": "0x05AB",
+  "text": "Remaining"
+ },
+ {
+  "id": "0x05AD",
+  "text": "Select Character"
+ },
+ {
+  "id": "0x05AF",
+  "text": "Exchange items between units."
+ },
+ {
+  "id": "0x05B0",
+  "text": "Use items."
+ },
+ {
+  "id": "0x05B1",
+  "text": "Transfer items to and from storage."
+ },
+ {
+  "id": "0x05B2",
+  "text": "Buy and sell items."
+ },
+ {
+  "id": "0x05B3",
+  "text": "Display all units' items."
+ },
+ {
+  "id": "0x05B4",
+  "text": "Sell your unneeded items. Important items cannot be sold."
+ },
+ {
+  "id": "0x05B5",
+  "text": "Place all items in storage."
+ },
+ {
+  "id": "0x05B7",
+  "text": "Receive item. A unit can carry up to 5 items."
+ },
+ {
+  "id": "0x05B8",
+  "text": "Check your rankings for the battles so far."
+ },
+ {
+  "id": "0x05B9",
+  "text": "Check your tactician rating and character data."
+ },
+ {
+  "id": "0x05BA",
+  "text": "Predict elements of the coming battle."
+ },
+ {
+  "id": "0x05BC",
+  "text": "Rearrange the starting formation of your units."
+ },
+ {
+  "id": "0x05BD",
+  "text": "Set game speed and window options."
+ },
+ {
+  "id": "0x05BE",
+  "text": "Save the current campaign."
+ },
+ {
+  "id": "0x05BF",
+  "text": "Begin combat."
+ },
+ {
+  "id": "0x05C0",
+  "text": "Prologue"
+ },
+ {
+  "id": "0x05C1",
+  "text": "Chapter 1"
+ },
+ {
+  "id": "0x05C2",
+  "text": "Chapter 2"
+ },
+ {
+  "id": "0x05C3",
+  "text": "Chapter 3"
+ },
+ {
+  "id": "0x05C4",
+  "text": "Chapter 4"
+ },
+ {
+  "id": "0x05C5",
+  "text": "Chapter 5"
+ },
+ {
+  "id": "0x05C6",
+  "text": "Chapter 6"
+ },
+ {
+  "id": "0x05C7",
+  "text": "Chapter 7"
+ },
+ {
+  "id": "0x05C8",
+  "text": "Chapter 8"
+ },
+ {
+  "id": "0x05C9",
+  "text": "Basic Rules"
+ },
+ {
+  "id": "0x05CA",
+  "text": "Movement"
+ },
+ {
+  "id": "0x05CB",
+  "text": "Combat"
+ },
+ {
+  "id": "0x05CC",
+  "text": "Rescue"
+ },
+ {
+  "id": "0x05CD",
+  "text": "Items"
+ },
+ {
+  "id": "0x05CE",
+  "text": "Terrain"
+ },
+ {
+  "id": "0x05CF",
+  "text": "Allies"
+ },
+ {
+  "id": "0x05D0",
+  "text": "Victory"
+ },
+ {
+  "id": "0x05D1",
+  "text": "Save"
+ },
+ {
+  "id": "0x05D2",
+  "text": "World Map"
+ },
+ {
+  "id": "0x05D3",
+  "text": "Other"
+ },
+ {
+  "id": "0x05D4",
+  "text": "About:"
+ },
+ {
+  "id": "0x05D5",
+  "text": "Viewing Units"
+ },
+ {
+  "id": "0x05D6",
+  "text": "Game Flow"
+ },
+ {
+  "id": "0x05D7",
+  "text": "Game Over"
+ },
+ {
+  "id": "0x05D8",
+  "text": "Movement Range"
+ },
+ {
+  "id": "0x05D9",
+  "text": "Moving Again"
+ },
+ {
+  "id": "0x05DA",
+  "text": "Attack Range"
+ },
+ {
+  "id": "0x05DB",
+  "text": "Weapon Triangle"
+ },
+ {
+  "id": "0x05DC",
+  "text": "Trinity of Magic"
+ },
+ {
+  "id": "0x05DD",
+  "text": "Weapon Effectiveness"
+ },
+ {
+  "id": "0x05DE",
+  "text": "Critical Hit"
+ },
+ {
+  "id": "0x05DF",
+  "text": "Physical Defense"
+ },
+ {
+  "id": "0x05E0",
+  "text": "Magical Resistance"
+ },
+ {
+  "id": "0x05E1",
+  "text": "Restoring HP"
+ },
+ {
+  "id": "0x05E2",
+  "text": "Normal Status"
+ },
+ {
+  "id": "0x05E3",
+  "text": "Strategic Battle Info"
+ },
+ {
+  "id": "0x05E4",
+  "text": "Detailed Battle Info"
+ },
+ {
+  "id": "0x05E5",
+  "text": "Rescue"
+ },
+ {
+  "id": "0x05E6",
+  "text": "Drop"
+ },
+ {
+  "id": "0x05E7",
+  "text": "Acquiring Items"
+ },
+ {
+  "id": "0x05E8",
+  "text": "Using Items"
+ },
+ {
+  "id": "0x05E9",
+  "text": "Trading Items"
+ },
+ {
+  "id": "0x05EA",
+  "text": "Weapon Durability"
+ },
+ {
+  "id": "0x05EB",
+  "text": "Supply Convoy"
+ },
+ {
+  "id": "0x05EC",
+  "text": "Armory"
+ },
+ {
+  "id": "0x05ED",
+  "text": "Shop"
+ },
+ {
+  "id": "0x05EE",
+  "text": "Forests & Mountains"
+ },
+ {
+  "id": "0x05EF",
+  "text": "Fortresses & Castle Gates"
+ },
+ {
+  "id": "0x05F0",
+  "text": "Houses"
+ },
+ {
+  "id": "0x05F1",
+  "text": "Villages"
+ },
+ {
+  "id": "0x05F2",
+  "text": "Chests"
+ },
+ {
+  "id": "0x05F3",
+  "text": "Snags"
+ },
+ {
+  "id": "0x05F4",
+  "text": "Damaged Walls"
+ },
+ {
+  "id": "0x05F5",
+  "text": "Fog & Night Conditions"
+ },
+ {
+  "id": "0x05F6",
+  "text": "Ballistae"
+ },
+ {
+  "id": "0x05F7",
+  "text": "Acquiring Items"
+ },
+ {
+  "id": "0x05F8",
+  "text": "Retreating from the Front Lines"
+ },
+ {
+  "id": "0x05F9",
+  "text": "Support Conversations"
+ },
+ {
+  "id": "0x05FA",
+  "text": "Support Effects"
+ },
+ {
+  "id": "0x05FB",
+  "text": "Recruiting Green Units"
+ },
+ {
+  "id": "0x05FC",
+  "text": "Recruiting Red Units"
+ },
+ {
+  "id": "0x05FD",
+  "text": "Defeat a Boss"
+ },
+ {
+  "id": "0x05FE",
+  "text": "Seize a Location"
+ },
+ {
+  "id": "0x05FF",
+  "text": "Defeat All"
+ },
+ {
+  "id": "0x0600",
+  "text": "Defense"
+ },
+ {
+  "id": "0x0601",
+  "text": "Suspend"
+ },
+ {
+  "id": "0x0602",
+  "text": "Save"
+ },
+ {
+  "id": "0x0603",
+  "text": "How to Move"
+ },
+ {
+  "id": "0x0604",
+  "text": "Armory & Shop"
+ },
+ {
+  "id": "0x0605",
+  "text": "Item Management"
+ },
+ {
+  "id": "0x0606",
+  "text": "Monsters"
+ },
+ {
+  "id": "0x0607",
+  "text": "Preparation Screen"
+ },
+ {
+  "id": "0x0608",
+  "text": "Leveling Up"
+ },
+ {
+  "id": "0x0609",
+  "text": "Changing Classes"
+ },
+ {
+  "id": "0x060A",
+  "text": "R Button Info"
+ },
+ {
+  "id": "0x060B",
+  "text": "Arena"
+ },
+ {
+  "id": "0x060C",
+  "text": "Retreat"
+ },
+ {
+  "id": "0x060D",
+  "text": "Units are divided into the following three types: Player (blue) Enemy "
+ },
+ {
+  "id": "0x060E",
+  "text": "Units take turns moving in the following order: 1. Player (blue) 2. En"
+ },
+ {
+  "id": "0x060F",
+  "text": "If a main character's Hit Points are reduced to zero, the game ends."
+ },
+ {
+  "id": "0x0610",
+  "text": "The blue area that appears when you select a unit is its movement rang"
+ },
+ {
+  "id": "0x0611",
+  "text": "Mounted units can move again after visiting homes or villages if they "
+ },
+ {
+  "id": "0x0612",
+  "text": "The red area that appears when you select a unit is its attack range. "
+ },
+ {
+  "id": "0x0613",
+  "text": "Each weapon type has its own strengths and weaknesses. Swords do well "
+ },
+ {
+  "id": "0x0614",
+  "text": "Each type of magic has its own strengths and weaknesses. Light is stro"
+ },
+ {
+  "id": "0x0615",
+  "text": "Some weapons are especially effective against certain units. These wea"
+ },
+ {
+  "id": "0x0616",
+  "text": "Critical hits inflict three times the normal damage to enemies. Your c"
+ },
+ {
+  "id": "0x0617",
+  "text": "Any attack from a weapon is a physical attack. Each unit's DEF (defens"
+ },
+ {
+  "id": "0x0618",
+  "text": "Any attack with magic is called a magical attack. Your unit's RES (res"
+ },
+ {
+  "id": "0x0619",
+  "text": "Restore HP to your units by using vulneraries, elixirs, and staves. Vu"
+ },
+ {
+  "id": "0x061A",
+  "text": "There are five abnormal states a unit can enter: 1. Sleep (Asleep and "
+ },
+ {
+  "id": "0x061B",
+  "text": "Here is the information shown if you choose the strategic combat infor"
+ },
+ {
+  "id": "0x061C",
+  "text": "Here is the information shown if you choose the detailed combat inform"
+ },
+ {
+  "id": "0x061D",
+  "text": "Any unit can rescue a blue or green unit in an adjacent tile. However,"
+ },
+ {
+  "id": "0x061E",
+  "text": "You can drop a rescued unit into any adjacent tile. The dropped unit w"
+ },
+ {
+  "id": "0x061F",
+  "text": "You can purchase items at shops. You can also pick them up by visiting"
+ },
+ {
+  "id": "0x0620",
+  "text": "Choose an item from the item list and press the A Button to use it. It"
+ },
+ {
+  "id": "0x0621",
+  "text": "You can trade items with units in adjacent tiles. Select Trade on the "
+ },
+ {
+  "id": "0x0622",
+  "text": "Items have a limited number of uses. Each time you use an item its dur"
+ },
+ {
+  "id": "0x0623",
+  "text": "A supply convoy travels with your main character. If you move to a spa"
+ },
+ {
+  "id": "0x0624",
+  "text": "Move a unit onto an armory and then choose Armory to buy weapons. You "
+ },
+ {
+  "id": "0x0625",
+  "text": "Move a unit onto a shop and then choose Shop to buy and sell items, ma"
+ },
+ {
+  "id": "0x0626",
+  "text": "Forests and mountains give units additional cover. When your units are"
+ },
+ {
+  "id": "0x0627",
+  "text": "Any unit that ends its turn on a fortress, castle gate, gate, or thron"
+ },
+ {
+  "id": "0x0628",
+  "text": "Move a unit to a house to visit the occupants of that house. This is a"
+ },
+ {
+  "id": "0x0629",
+  "text": "Move a unit to a village to speak with its villagers. You can gain inf"
+ },
+ {
+  "id": "0x062A",
+  "text": "Move units onto spaces with chests to open them. Chests are filled wit"
+ },
+ {
+  "id": "0x062B",
+  "text": "If you see an old snag near a river, knock it over to form an imprompt"
+ },
+ {
+  "id": "0x062C",
+  "text": "Attack cracked walls to destroy them and create new paths."
+ },
+ {
+  "id": "0x062D",
+  "text": "Darkness and fog limit your field of vision, preventing you from seein"
+ },
+ {
+  "id": "0x062E",
+  "text": "These siege weapons fire missiles from long distances. Place an archer"
+ },
+ {
+  "id": "0x062F",
+  "text": "On your quest, you will run across many characters who might join your"
+ },
+ {
+  "id": "0x0630",
+  "text": "Except in rare cases, if one of your units loses all of its HP, it wil"
+ },
+ {
+  "id": "0x0631",
+  "text": "Some units have special bonds between them. The longer they spend in a"
+ },
+ {
+  "id": "0x0632",
+  "text": "If supportive units are within three spaces of each other they both ga"
+ },
+ {
+  "id": "0x0633",
+  "text": "Green units are neutral. They may become allies if you speak to them. "
+ },
+ {
+  "id": "0x0634",
+  "text": "Some enemy units will join you if you talk to them. Move a character y"
+ },
+ {
+  "id": "0x0635",
+  "text": "If you defeat the enemy boss, you clear the map. There is no need to d"
+ },
+ {
+  "id": "0x0636",
+  "text": "Move the main character onto a throne, castle gate, gate, or other suc"
+ },
+ {
+  "id": "0x0637",
+  "text": "Clear the map by wiping out all enemy units."
+ },
+ {
+  "id": "0x0638",
+  "text": "Hold out against the enemy for a set number of turns to clear the map."
+ },
+ {
+  "id": "0x0639",
+  "text": "Choose Suspend on the command menu to save your game during a battle. "
+ },
+ {
+  "id": "0x063A",
+  "text": "Choose Save from the world map to save your game data between chapters"
+ },
+ {
+  "id": "0x063B",
+  "text": "Place the cursor on a space and press the A Button to move to that loc"
+ },
+ {
+  "id": "0x063C",
+  "text": "Some areas on the world map contain stores. You can see where stores a"
+ },
+ {
+  "id": "0x063D",
+  "text": "Manage your units' items by placing the cursor on the main character a"
+ },
+ {
+  "id": "0x063E",
+  "text": "Sometimes, creatures will appear on an area you've already cleared. To"
+ },
+ {
+  "id": "0x063F",
+  "text": "Ready your units for battle before entering the battlefield. Choose wh"
+ },
+ {
+  "id": "0x0640",
+  "text": "Units gain EXP (experience points) by fighting and by using staves. Th"
+ },
+ {
+  "id": "0x0641",
+  "text": "Most units can change classes once they reach level 10. Changing class"
+ },
+ {
+  "id": "0x0642",
+  "text": "If there's a command you're unfamiliar with, place the cursor over it "
+ },
+ {
+  "id": "0x0643",
+  "text": "Visit an arena, and bet your money and your life on single combat. Mov"
+ },
+ {
+  "id": "0x0644",
+  "text": "You can escape from battles in towers, in ruins, or with monsters. On "
+ },
+ {
+  "id": "0x0645",
+  "text": "Unit"
+ },
+ {
+  "id": "0x0646",
+  "text": "Status"
+ },
+ {
+  "id": "0x0647",
+  "text": "Guide"
+ },
+ {
+  "id": "0x0649",
+  "text": "Save"
+ },
+ {
+  "id": "0x064A",
+  "text": "Route +"
+ },
+ {
+  "id": "0x064B",
+  "text": "Route -"
+ },
+ {
+  "id": "0x0650",
+  "text": "Border Mulan"
+ },
+ {
+  "id": "0x0651",
+  "text": "Castle Frelia"
+ },
+ {
+  "id": "0x0652",
+  "text": "Ide"
+ },
+ {
+  "id": "0x0653",
+  "text": "Borgo Ridge"
+ },
+ {
+  "id": "0x0654",
+  "text": "Za'ha Woods"
+ },
+ {
+  "id": "0x0655",
+  "text": "Serafew"
+ },
+ {
+  "id": "0x0656",
+  "text": "Adlas Plains"
+ },
+ {
+  "id": "0x0657",
+  "text": "Renvall"
+ },
+ {
+  "id": "0x0658",
+  "text": "Renvall"
+ },
+ {
+  "id": "0x0659",
+  "text": "Port Kiris"
+ },
+ {
+  "id": "0x065A",
+  "text": "Teraz Plateau"
+ },
+ {
+  "id": "0x065B",
+  "text": "Caer Pelyn"
+ },
+ {
+  "id": "0x065C",
+  "text": "Hamill Canyon"
+ },
+ {
+  "id": "0x065D",
+  "text": "Jehanna Hall"
+ },
+ {
+  "id": "0x065E",
+  "text": "Fort Rigwald"
+ },
+ {
+  "id": "0x065F",
+  "text": "Bethroen"
+ },
+ {
+  "id": "0x0660",
+  "text": "Taizel"
+ },
+ {
+  "id": "0x0661",
+  "text": "Za'albul Marsh"
+ },
+ {
+  "id": "0x0662",
+  "text": "Grado Keep"
+ },
+ {
+  "id": "0x0663",
+  "text": "Jehanna Hall"
+ },
+ {
+  "id": "0x0664",
+  "text": "Renais Castle"
+ },
+ {
+  "id": "0x0665",
+  "text": "Narube River"
+ },
+ {
+  "id": "0x0666",
+  "text": "Neleras Peak"
+ },
+ {
+  "id": "0x0667",
+  "text": "Rausten Court"
+ },
+ {
+  "id": "0x0668",
+  "text": "Darkling Woods"
+ },
+ {
+  "id": "0x0669",
+  "text": "Black Temple"
+ },
+ {
+  "id": "0x066A",
+  "text": "Tower of Valni"
+ },
+ {
+  "id": "0x066B",
+  "text": "Lagdou Ruins"
+ },
+ {
+  "id": "0x066C",
+  "text": "Melkaen Coast"
+ },
+ {
+  "id": "0x066E",
+  "text": "Enter Armory"
+ },
+ {
+  "id": "0x066F",
+  "text": "Enter Shop"
+ },
+ {
+  "id": "0x0670",
+  "text": "Enter ? Shop"
+ },
+ {
+  "id": "0x0671",
+  "text": "Manage Items"
+ },
+ {
+  "id": "0x0672",
+  "text": "Enter Armory"
+ },
+ {
+  "id": "0x0673",
+  "text": "Enter Shop"
+ },
+ {
+  "id": "0x0674",
+  "text": "Enter ? Shop"
+ },
+ {
+  "id": "0x0675",
+  "text": "Manage Items"
+ },
+ {
+  "id": "0x0676",
+  "text": "The party's next destination."
+ },
+ {
+  "id": "0x0677",
+  "text": "The current number of units."
+ },
+ {
+  "id": "0x0678",
+  "text": "Manage your party's items."
+ },
+ {
+  "id": "0x0679",
+  "text": "Saving. To resume game, choose \"Restart Chapter.\""
+ },
+ {
+  "id": "0x067A",
+  "text": "Seize"
+ },
+ {
+  "id": "0x067B",
+  "text": "Attack"
+ },
+ {
+  "id": "0x067C",
+  "text": "Staff"
+ },
+ {
+  "id": "0x067D",
+  "text": "Play"
+ },
+ {
+  "id": "0x067F",
+  "text": "Steal"
+ },
+ {
+  "id": "0x0680",
+  "text": "Talk"
+ },
+ {
+  "id": "0x0681",
+  "text": "Support"
+ },
+ {
+  "id": "0x0682",
+  "text": "Visit"
+ },
+ {
+  "id": "0x0683",
+  "text": "Chest"
+ },
+ {
+  "id": "0x0684",
+  "text": "Door"
+ },
+ {
+  "id": "0x0685",
+  "text": "Armory"
+ },
+ {
+  "id": "0x0686",
+  "text": "Vendor"
+ },
+ {
+  "id": "0x0687",
+  "text": "Secret"
+ },
+ {
+  "id": "0x0688",
+  "text": "Arena"
+ },
+ {
+  "id": "0x0689",
+  "text": "Rescue"
+ },
+ {
+  "id": "0x068A",
+  "text": "Drop"
+ },
+ {
+  "id": "0x068B",
+  "text": "Take"
+ },
+ {
+  "id": "0x068C",
+  "text": "Give"
+ },
+ {
+  "id": "0x068D",
+  "text": "Item"
+ },
+ {
+  "id": "0x068E",
+  "text": "Trade"
+ },
+ {
+  "id": "0x068F",
+  "text": "Supply"
+ },
+ {
+  "id": "0x0690",
+  "text": "Status"
+ },
+ {
+  "id": "0x0691",
+  "text": "Ride"
+ },
+ {
+  "id": "0x0692",
+  "text": "Exit"
+ },
+ {
+  "id": "0x0693",
+  "text": "Summon"
+ },
+ {
+  "id": "0x0694",
+  "text": "Pick"
+ },
+ {
+  "id": "0x0695",
+  "text": "Wait"
+ },
+ {
+  "id": "0x0696",
+  "text": "Use"
+ },
+ {
+  "id": "0x0697",
+  "text": "Equip"
+ },
+ {
+  "id": "0x0698",
+  "text": "Trade"
+ },
+ {
+  "id": "0x0699",
+  "text": "Discard"
+ },
+ {
+  "id": "0x069A",
+  "text": "Unit"
+ },
+ {
+  "id": "0x06A1",
+  "text": "Lead"
+ },
+ {
+  "id": "0x06A2",
+  "text": "Debug"
+ },
+ {
+  "id": "0x06A3",
+  "text": "M.Save"
+ },
+ {
+  "id": "0x06A4",
+  "text": "Manual Save"
+ },
+ {
+  "id": "0x06A5",
+  "text": "2nd"
+ },
+ {
+  "id": "0x06A6",
+  "text": "3rd"
+ },
+ {
+  "id": "0x06A7",
+  "text": "CPU"
+ },
+ {
+  "id": "0x06A8",
+  "text": "Human"
+ },
+ {
+  "id": "0x06A9",
+  "text": "Blocked"
+ },
+ {
+  "id": "0x06AA",
+  "text": "Map"
+ },
+ {
+  "id": "0x06AB",
+  "text": "D.Info"
+ },
+ {
+  "id": "0x06AC",
+  "text": "Weather"
+ },
+ {
+  "id": "0x06AD",
+  "text": "Fog"
+ },
+ {
+  "id": "0x06AE",
+  "text": "Clears"
+ },
+ {
+  "id": "0x06AF",
+  "text": "Erased"
+ },
+ {
+  "id": "0x06B0",
+  "text": "G'Night!"
+ },
+ {
+  "id": "0x06B1",
+  "text": "Clear"
+ },
+ {
+  "id": "0x06B2",
+  "text": "Sand"
+ },
+ {
+  "id": "0x06B3",
+  "text": "Snow"
+ },
+ {
+  "id": "0x06B4",
+  "text": "Flurry"
+ },
+ {
+  "id": "0x06B5",
+  "text": "Rain"
+ },
+ {
+  "id": "0x06B6",
+  "text": "Night"
+ },
+ {
+  "id": "0x06B7",
+  "text": "Lave"
+ },
+ {
+  "id": "0x06B8",
+  "text": "Clears"
+ },
+ {
+  "id": "0x06B9",
+  "text": "Erase"
+ },
+ {
+  "id": "0x06BA",
+  "text": "File?"
+ },
+ {
+  "id": "0x06BB",
+  "text": "Erased files are"
+ },
+ {
+  "id": "0x06BC",
+  "text": "gone forever!"
+ },
+ {
+  "id": "0x06BD",
+  "text": "OK"
+ },
+ {
+  "id": "0x06BE",
+  "text": "There are no messages for this menu item."
+ },
+ {
+  "id": "0x06BF",
+  "text": "End the turn. Be sure you're done before you select this."
+ },
+ {
+  "id": "0x06C0",
+  "text": "Attack an enemy unit."
+ },
+ {
+  "id": "0x06C1",
+  "text": "Use the magic stored within a staff."
+ },
+ {
+  "id": "0x06C3",
+  "text": "Use a ring that allows your allies to move again."
+ },
+ {
+  "id": "0x06C5",
+  "text": "Rescue an ally from an adjacent space."
+ },
+ {
+  "id": "0x06C6",
+  "text": "Place a rescued ally in an adjacent space."
+ },
+ {
+  "id": "0x06C7",
+  "text": "Pass a rescued ally to another ally next to you."
+ },
+ {
+  "id": "0x06C8",
+  "text": "Receive a rescued ally from another ally next to you."
+ },
+ {
+  "id": "0x06C9",
+  "text": "Talk to an ally or enemy in an adjacent space."
+ },
+ {
+  "id": "0x06CA",
+  "text": "Speak to an allied unit and strengthen the bond you share."
+ },
+ {
+  "id": "0x06CB",
+  "text": "Visit a village or a home."
+ },
+ {
+  "id": "0x06CC",
+  "text": "Seize a designated point to complete the chapter."
+ },
+ {
+  "id": "0x06CD",
+  "text": "A door. Use a key to open it."
+ },
+ {
+  "id": "0x06CE",
+  "text": "A chest. Use a key to open it."
+ },
+ {
+  "id": "0x06CF",
+  "text": "An armory. Enter to buy weapons."
+ },
+ {
+  "id": "0x06D0",
+  "text": "A shop. Enter to buy items."
+ },
+ {
+  "id": "0x06D2",
+  "text": "An arena. Wager your life in battle for gold."
+ },
+ {
+  "id": "0x06D3",
+  "text": "Use and equip items."
+ },
+ {
+  "id": "0x06D4",
+  "text": "Trade items with allies in adjacent spaces."
+ },
+ {
+  "id": "0x06D5",
+  "text": "Adjacent units can exchange items with your supply convoy."
+ },
+ {
+  "id": "0x06D6",
+  "text": "Get on ballista and use it to attack."
+ },
+ {
+  "id": "0x06D7",
+  "text": "Get off of ballista."
+ },
+ {
+  "id": "0x06D8",
+  "text": "Normal attack with a bow occurs."
+ },
+ {
+  "id": "0x06D9",
+  "text": "Use the ballista to target distant enemies."
+ },
+ {
+  "id": "0x06DA",
+  "text": "Ready weapons or magic. Use them to counterattack."
+ },
+ {
+  "id": "0x06DB",
+  "text": "Use items."
+ },
+ {
+  "id": "0x06DC",
+  "text": "Discard items. Important items cannot be discarded."
+ },
+ {
+  "id": "0x06DD",
+  "text": "Summon a phantasm."
+ },
+ {
+  "id": "0x06DE",
+  "text": "Open doors and chests without using keys."
+ },
+ {
+  "id": "0x06DF",
+  "text": "Display a chart of all units on the field."
+ },
+ {
+  "id": "0x06E0",
+  "text": "Display current battle progress."
+ },
+ {
+  "id": "0x06E1",
+  "text": "Set game speed and windows."
+ },
+ {
+  "id": "0x06E6",
+  "text": "End player's phase."
+ },
+ {
+  "id": "0x06E7",
+  "text": "Name of the unit."
+ },
+ {
+  "id": "0x06E8",
+  "text": "The unit's class. Each class possesses unique traits."
+ },
+ {
+  "id": "0x06E9",
+  "text": "Current Max HP."
+ },
+ {
+  "id": "0x06EA",
+  "text": "Strength or magic power. This affects attack ability."
+ },
+ {
+  "id": "0x06EB",
+  "text": "Weapon or magical tome being used."
+ },
+ {
+  "id": "0x06EC",
+  "text": "Physical condition. Default is normal."
+ },
+ {
+  "id": "0x06ED",
+  "text": "Number of allied units."
+ },
+ {
+  "id": "0x06EE",
+  "text": "Number of enemy units."
+ },
+ {
+  "id": "0x06EF",
+  "text": "Name of the army commander."
+ },
+ {
+  "id": "0x06F0",
+  "text": "Total time played."
+ },
+ {
+  "id": "0x06F1",
+  "text": "The goal of this chapter."
+ },
+ {
+  "id": "0x06F2",
+  "text": "Number of turns played at this point in the current chapter."
+ },
+ {
+  "id": "0x06F3",
+  "text": "Money on hand."
+ },
+ {
+  "id": "0x06F4",
+  "text": "Only units with animation turned on can perform combat animation."
+ },
+ {
+  "id": "0x06F5",
+  "text": "The prince of Renais. A spear fighter on an important mission."
+ },
+ {
+  "id": "0x06F6",
+  "text": "The princess of Renais. A sword fighter on an important mission."
+ },
+ {
+  "id": "0x06F7",
+  "text": "The prince of Renais. A spear fighter on an important mission."
+ },
+ {
+  "id": "0x06F8",
+  "text": "The princess of Renais. A sword fighter on an important mission."
+ },
+ {
+  "id": "0x06F9",
+  "text": "Mounted knights with superior movement. Well balanced for speed, defen"
+ },
+ {
+  "id": "0x06FA",
+  "text": "A title earned only by those cavaliers whose lives have been dedicated"
+ },
+ {
+  "id": "0x06FB",
+  "text": "Heavily armored knights. Superior defense outweighs their poor movemen"
+ },
+ {
+  "id": "0x06FC",
+  "text": "Lordly knights in heavy armor. They possess excellent defensive and of"
+ },
+ {
+  "id": "0x06FD",
+  "text": "Rogues and fortune hunters. They possess weak attacks but many other s"
+ },
+ {
+  "id": "0x06FE",
+  "text": "Professional soldiers-for-hire. They are well balanced, with superior "
+ },
+ {
+  "id": "0x06FF",
+  "text": "The finest of all mercenary warriors. Expert in all fields of combat."
+ },
+ {
+  "id": "0x0700",
+  "text": "Swordsmen who possess superior speed and technique. They specialize in"
+ },
+ {
+  "id": "0x0701",
+  "text": "A title given to those dedicated to the sword. Incredible speed and ki"
+ },
+ {
+  "id": "0x0702",
+  "text": "Masters of the killing arts. They have the ability to kill a foe with "
+ },
+ {
+  "id": "0x0703",
+  "text": "Lightly protected warriors armed with bows. They can attack from a dis"
+ },
+ {
+  "id": "0x0704",
+  "text": "Archers dedicated to mastering their art. None can match their skill w"
+ },
+ {
+  "id": "0x0705",
+  "text": "Mounted knights who charge into battle with sword and bow. They posses"
+ },
+ {
+  "id": "0x0706",
+  "text": "Knights who rule the skies from wyvern-back. They are vulnerable to on"
+ },
+ {
+  "id": "0x0707",
+  "text": "Knights united with their wyvern mounts. They have better movement and"
+ },
+ {
+  "id": "0x0708",
+  "text": "High-flying, lance-wielding knights. They can penetrate enemy defenses"
+ },
+ {
+  "id": "0x0709",
+  "text": "Mages schooled in anima magic. They bypass defenses but are weak again"
+ },
+ {
+  "id": "0x070A",
+  "text": "A title given to advanced mages. They wield magic and can carry staves"
+ },
+ {
+  "id": "0x070B",
+  "text": "Mounted mage-knights who wield anima magic. Can also use sacred staves"
+ },
+ {
+  "id": "0x070C",
+  "text": "A title given to monks who have attained enlightenment. Wields magic f"
+ },
+ {
+  "id": "0x070D",
+  "text": "Dragonkin who live in Darkling Woods. Dragonstones can transform them."
+ },
+ {
+  "id": "0x070E",
+  "text": "A green fighter who wishes to emulate his father. He's young but coura"
+ },
+ {
+  "id": "0x070F",
+  "text": "A hardworking apprentice studying magic under the master Saleh."
+ },
+ {
+  "id": "0x0710",
+  "text": "Adventurer-thieves with skills so great they can open chests and doors"
+ },
+ {
+  "id": "0x0711",
+  "text": "Axe-wielding powerhouses whose wild fighting style leaves them with po"
+ },
+ {
+  "id": "0x0712",
+  "text": "A title awarded to battle-tested warriors. The strongest of all fighte"
+ },
+ {
+  "id": "0x0713",
+  "text": "Mighty axe fighters especially skilled in mountain combat."
+ },
+ {
+  "id": "0x0714",
+  "text": "A title for those who live to fight. Strong in mountains or at sea. Sk"
+ },
+ {
+  "id": "0x0715",
+  "text": "Knights with high defense and mobility. They use swords, axes, and lan"
+ },
+ {
+  "id": "0x0716",
+  "text": "Masters of elder black magic. They are very powerful, but very slow as"
+ },
+ {
+  "id": "0x0717",
+  "text": "A title granted to powerful shamans. Those who battle them cower in fe"
+ },
+ {
+  "id": "0x0718",
+  "text": "A title granted to shamans who have used forbidden magic to learn the "
+ },
+ {
+  "id": "0x0719",
+  "text": "Ascetic wielders of sacred light magic. Superior ability to hit but lo"
+ },
+ {
+  "id": "0x071A",
+  "text": "Members of the clergy who wield sacred staves to aid allies. They wiel"
+ },
+ {
+  "id": "0x071B",
+  "text": "Fresh recruits who dream of becoming knights. They're inexperienced bu"
+ },
+ {
+  "id": "0x071C",
+  "text": "Knights who soar through the skies. They resist magic but are weak aga"
+ },
+ {
+  "id": "0x071D",
+  "text": "Knights united with their pegasus mounts. They have superior skill and"
+ },
+ {
+  "id": "0x071E",
+  "text": "Wielders of sacred staves who aid allies in battle. They refuse to tak"
+ },
+ {
+  "id": "0x071F",
+  "text": "Mounted maidens whose sacred staves aid allies. They are swift but wil"
+ },
+ {
+  "id": "0x0720",
+  "text": "Battle maidens who ride into combat wielding light magic and sacred st"
+ },
+ {
+  "id": "0x0721",
+  "text": "Dancers whose grace soothes allies. They do not fight in combat."
+ },
+ {
+  "id": "0x0722",
+  "text": "Average foot soldiers possessing no unique abilities. They bear spears"
+ },
+ {
+  "id": "0x0723",
+  "text": "Axe-wielding privateers trained to fight on the high seas."
+ },
+ {
+  "id": "0x0724",
+  "text": "The crown prince of Grado's empire. The Dark Stone gives him strange p"
+ },
+ {
+  "id": "0x0725",
+  "text": "Reanimated cadavers of the recently dead. They are slow, but their cla"
+ },
+ {
+  "id": "0x0726",
+  "text": "Corpses animated by evil power. They are slow moving, but their talons"
+ },
+ {
+  "id": "0x0727",
+  "text": "Dead warriors given will by dark magic. They wield a variety of weapon"
+ },
+ {
+  "id": "0x0728",
+  "text": "Skeletons infused with tremendous magical strength. They can wield man"
+ },
+ {
+  "id": "0x0729",
+  "text": "Giant poison spiders. They roam the mountains, attacking with deadly v"
+ },
+ {
+  "id": "0x072A",
+  "text": "Giant spiders infused with tremendous magical strength. Their venom is"
+ },
+ {
+  "id": "0x072B",
+  "text": "One-eyed giants. With inhuman strength, they wield axes far larger tha"
+ },
+ {
+  "id": "0x072C",
+  "text": "Savage demon hounds that thirst for blood. These agile beasts have raz"
+ },
+ {
+  "id": "0x072D",
+  "text": "Ferocious, three-headed hellhounds. Their triple-fanged bites are diff"
+ },
+ {
+  "id": "0x072E",
+  "text": "Belligerent man-beasts. Like hurricanes they roam, wreaking havoc with"
+ },
+ {
+  "id": "0x072F",
+  "text": "Creatures of great strength and speed. They pursue their prey with axe"
+ },
+ {
+  "id": "0x0730",
+  "text": "Floating eyes filled with dark power. Simply seeing one is considered "
+ },
+ {
+  "id": "0x0731",
+  "text": "Mogall of great power. Their dark might far exceeds that of their less"
+ },
+ {
+  "id": "0x0732",
+  "text": "Beautiful and cursed creatures, whose gaze turns all who behold it int"
+ },
+ {
+  "id": "0x0733",
+  "text": "Malignant fiends who hunt with lances. They swoop in swiftly on their "
+ },
+ {
+  "id": "0x0734",
+  "text": "Gargoyles enhanced by magic. They surpass their lesser brethren in spe"
+ },
+ {
+  "id": "0x0735",
+  "text": "Select Edit Teams to build a team."
+ },
+ {
+  "id": "0x0736",
+  "text": "Build or edit a multiplayer team."
+ },
+ {
+  "id": "0x0737",
+  "text": "Battle the computer."
+ },
+ {
+  "id": "0x0738",
+  "text": "Set team # with + Control Pad."
+ },
+ {
+  "id": "0x0739",
+  "text": "Battle against a linked player."
+ },
+ {
+  "id": "0x073A",
+  "text": "Confirm battle records to date."
+ },
+ {
+  "id": "0x073B",
+  "text": "Set combat rules."
+ },
+ {
+  "id": "0x073C",
+  "text": "Build a new team."
+ },
+ {
+  "id": "0x073D",
+  "text": "View all units on team."
+ },
+ {
+  "id": "0x073E",
+  "text": "Switch teams."
+ },
+ {
+  "id": "0x073F",
+  "text": "Disband team."
+ },
+ {
+  "id": "0x0740",
+  "text": "Return to link menu."
+ },
+ {
+  "id": "0x0741",
+  "text": "Select team for battle."
+ },
+ {
+  "id": "0x0742",
+  "text": "Select your own team."
+ },
+ {
+  "id": "0x0743",
+  "text": "Select team to battle."
+ },
+ {
+  "id": "0x0744",
+  "text": "+Control Pad: move/B Button: back."
+ },
+ {
+  "id": "0x0745",
+  "text": "Set whether to hide enemy units."
+ },
+ {
+  "id": "0x0746",
+  "text": "Set victory conditions."
+ },
+ {
+  "id": "0x0747",
+  "text": "Set units to equip automatically."
+ },
+ {
+  "id": "0x0748",
+  "text": "Setting up. Please wait..."
+ },
+ {
+  "id": "0x0749",
+  "text": "Please wait..."
+ },
+ {
+  "id": "0x074A",
+  "text": "Press START to begin."
+ },
+ {
+  "id": "0x074B",
+  "text": "The rules for this battle."
+ },
+ {
+  "id": "0x074C",
+  "text": "Select data to build a team with."
+ },
+ {
+  "id": "0x074D",
+  "text": "Saved data will not be changed."
+ },
+ {
+  "id": "0x074E",
+  "text": "Select player to move first."
+ },
+ {
+  "id": "0x074F",
+  "text": "You move first."
+ },
+ {
+  "id": "0x0750",
+  "text": "P1 moves first."
+ },
+ {
+  "id": "0x0751",
+  "text": "P2 moves first."
+ },
+ {
+  "id": "0x0752",
+  "text": "P3 moves first."
+ },
+ {
+  "id": "0x0753",
+  "text": "P4 moves first."
+ },
+ {
+  "id": "0x0754",
+  "text": "It is all right to delete?"
+ },
+ {
+  "id": "0x0755",
+  "text": "Cancel and lose team contents?"
+ },
+ {
+  "id": "0x0756",
+  "text": "Each unit receives 30 extra pts."
+ },
+ {
+  "id": "0x0757",
+  "text": "The team surrendered."
+ },
+ {
+  "id": "0x0758",
+  "text": "No one can do damage this turn."
+ },
+ {
+  "id": "0x0759",
+  "text": "Set unit speed to normal."
+ },
+ {
+  "id": "0x075A",
+  "text": "Set unit speed to high."
+ },
+ {
+  "id": "0x075B",
+  "text": "Enemy commander"
+ },
+ {
+  "id": "0x075C",
+  "text": "Cancel"
+ },
+ {
+  "id": "0x075D",
+  "text": "Select up to 5 units to fight in the Link Arena. You cannot select uni"
+ },
+ {
+  "id": "0x075E",
+  "text": "Swap units' items."
+ },
+ {
+  "id": "0x075F",
+  "text": "Cancel link formation and return to the previous screen."
+ },
+ {
+  "id": "0x0760",
+  "text": "Select two units and trade items."
+ },
+ {
+  "id": "0x0761",
+  "text": "Select unit to trade with."
+ },
+ {
+  "id": "0x0762",
+  "text": "Discard unwanted item."
+ },
+ {
+  "id": "0x0763",
+  "text": "Can trade for Merlinus's items."
+ },
+ {
+  "id": "0x0764",
+  "text": "Can view all units' items."
+ },
+ {
+  "id": "0x0765",
+  "text": "Armories can buy and sell items."
+ },
+ {
+  "id": "0x0766",
+  "text": "Build Team"
+ },
+ {
+  "id": "0x0767",
+  "text": "Unit List"
+ },
+ {
+  "id": "0x0768",
+  "text": "Swap"
+ },
+ {
+  "id": "0x0769",
+  "text": "Disband"
+ },
+ {
+  "id": "0x076A",
+  "text": "Link Menu"
+ },
+ {
+  "id": "0x076B",
+  "text": "Empty"
+ },
+ {
+  "id": "0x076C",
+  "text": "Team"
+ },
+ {
+  "id": "0x076D",
+  "text": "Not Linked"
+ },
+ {
+  "id": "0x076E",
+  "text": "Connecting"
+ },
+ {
+  "id": "0x076F",
+  "text": "Link Error"
+ },
+ {
+  "id": "0x0770",
+  "text": "Done"
+ },
+ {
+  "id": "0x0771",
+  "text": "Points"
+ },
+ {
+  "id": "0x0772",
+  "text": "Name"
+ },
+ {
+  "id": "0x0773",
+  "text": "Points"
+ },
+ {
+  "id": "0x0774",
+  "text": "Rank"
+ },
+ {
+  "id": "0x0775",
+  "text": "Players"
+ },
+ {
+  "id": "0x0776",
+  "text": "Hide Units"
+ },
+ {
+  "id": "0x0777",
+  "text": "Victory Cond"
+ },
+ {
+  "id": "0x0778",
+  "text": "AutoWeapon"
+ },
+ {
+  "id": "0x0779",
+  "text": "Points"
+ },
+ {
+  "id": "0x077A",
+  "text": "Survival"
+ },
+ {
+  "id": "0x077B",
+  "text": "ON"
+ },
+ {
+  "id": "0x077C",
+  "text": "OFF"
+ },
+ {
+  "id": "0x077D",
+  "text": "Now Loading"
+ },
+ {
+  "id": "0x077E",
+  "text": "Connecting"
+ },
+ {
+  "id": "0x077F",
+  "text": "Pts."
+ },
+ {
+  "id": "0x0780",
+  "text": "Rank"
+ },
+ {
+  "id": "0x0782",
+  "text": "1st"
+ },
+ {
+  "id": "0x0783",
+  "text": "2nd"
+ },
+ {
+  "id": "0x0784",
+  "text": "3rd"
+ },
+ {
+  "id": "0x0785",
+  "text": "4th"
+ },
+ {
+  "id": "0x078B",
+  "text": "The Valiant"
+ },
+ {
+  "id": "0x078C",
+  "text": "Main Theme"
+ },
+ {
+  "id": "0x078D",
+  "text": "Prologue"
+ },
+ {
+  "id": "0x078E",
+  "text": "The Beginning"
+ },
+ {
+  "id": "0x078F",
+  "text": "Treasured Memories"
+ },
+ {
+  "id": "0x0790",
+  "text": "Grim Journey"
+ },
+ {
+  "id": "0x0791",
+  "text": "Ties of Friendship"
+ },
+ {
+  "id": "0x0792",
+  "text": "Ray of Hope"
+ },
+ {
+  "id": "0x0793",
+  "text": "Distant Roads"
+ },
+ {
+  "id": "0x0794",
+  "text": "Rise Above"
+ },
+ {
+  "id": "0x0795",
+  "text": "Follow Me!"
+ },
+ {
+  "id": "0x0796",
+  "text": "Determination"
+ },
+ {
+  "id": "0x0797",
+  "text": "Truth, Despair, and Hope"
+ },
+ {
+  "id": "0x0798",
+  "text": "Land of Promise"
+ },
+ {
+  "id": "0x0799",
+  "text": "Binding Vow"
+ },
+ {
+  "id": "0x079A",
+  "text": "Grasp at Victory"
+ },
+ {
+  "id": "0x079B",
+  "text": "Confront the Past"
+ },
+ {
+  "id": "0x079C",
+  "text": "Shadows Approach"
+ },
+ {
+  "id": "0x079D",
+  "text": "Shadow of the Enemy"
+ },
+ {
+  "id": "0x079E",
+  "text": "Assault"
+ },
+ {
+  "id": "0x079F",
+  "text": "From the Darkness"
+ },
+ {
+  "id": "0x07A0",
+  "text": "Twisted Shadows A"
+ },
+ {
+  "id": "0x07A1",
+  "text": "Twisted Shadows B"
+ },
+ {
+  "id": "0x07A2",
+  "text": "Envoy from the Dark"
+ },
+ {
+  "id": "0x07A3",
+  "text": "Attack"
+ },
+ {
+  "id": "0x07A4",
+  "text": "Defense"
+ },
+ {
+  "id": "0x07A5",
+  "text": "The Battle Must Be Won"
+ },
+ {
+  "id": "0x07A6",
+  "text": "Powerful Foe"
+ },
+ {
+  "id": "0x07A7",
+  "text": "The Prince's Despair"
+ },
+ {
+  "id": "0x07A8",
+  "text": "Return of the Demon King"
+ },
+ {
+  "id": "0x07A9",
+  "text": "Sacred Strength"
+ },
+ {
+  "id": "0x07AA",
+  "text": "Tethys"
+ },
+ {
+  "id": "0x07AB",
+  "text": "Healing"
+ },
+ {
+  "id": "0x07AC",
+  "text": "Curing"
+ },
+ {
+  "id": "0x07AD",
+  "text": "To a Higher Place"
+ },
+ {
+  "id": "0x07AE",
+  "text": "Advance"
+ },
+ {
+  "id": "0x07AF",
+  "text": "Tension"
+ },
+ {
+  "id": "0x07B0",
+  "text": "Raid!"
+ },
+ {
+  "id": "0x07B1",
+  "text": "Reunion"
+ },
+ {
+  "id": "0x07B2",
+  "text": "Indignation"
+ },
+ {
+  "id": "0x07B3",
+  "text": "Sorrow"
+ },
+ {
+  "id": "0x07B4",
+  "text": "Laughter"
+ },
+ {
+  "id": "0x07B5",
+  "text": "Legacy"
+ },
+ {
+  "id": "0x07B6",
+  "text": "Lyon"
+ },
+ {
+  "id": "0x07B7",
+  "text": "Lost Heart"
+ },
+ {
+  "id": "0x07B8",
+  "text": "Lyon (Organ Arrangement)"
+ },
+ {
+  "id": "0x07B9",
+  "text": "The Final Battle"
+ },
+ {
+  "id": "0x07BA",
+  "text": "Solve the Riddle"
+ },
+ {
+  "id": "0x07BB",
+  "text": "Lights in the Dark"
+ },
+ {
+  "id": "0x07BC",
+  "text": "Comrades"
+ },
+ {
+  "id": "0x07BD",
+  "text": "Victory"
+ },
+ {
+  "id": "0x07BE",
+  "text": "Into the Shadow of Victory"
+ },
+ {
+  "id": "0x07BF",
+  "text": "Main Theme (Reprise)"
+ },
+ {
+  "id": "0x07C0",
+  "text": "Combat Preparation"
+ },
+ {
+  "id": "0x07C1",
+  "text": "Shops"
+ },
+ {
+  "id": "0x07C2",
+  "text": "Armories"
+ },
+ {
+  "id": "0x07C3",
+  "text": "Bonds"
+ },
+ {
+  "id": "0x07C4",
+  "text": "Colosseum Entrance"
+ },
+ {
+  "id": "0x07C5",
+  "text": "In the Colosseum"
+ },
+ {
+  "id": "0x07C6",
+  "text": "Colosseum Victory"
+ },
+ {
+  "id": "0x07C7",
+  "text": "Colosseum Defeat"
+ },
+ {
+  "id": "0x07C8",
+  "text": "Victory Song A"
+ },
+ {
+  "id": "0x07C9",
+  "text": "Victory Song B"
+ },
+ {
+  "id": "0x07CA",
+  "text": "Game Over"
+ },
+ {
+  "id": "0x07CB",
+  "text": "In Sorrow's Shroud"
+ },
+ {
+  "id": "0x07CC",
+  "text": "Records"
+ },
+ {
+  "id": "0x07CD",
+  "text": "Victory and the Future"
+ },
+ {
+  "id": "0x07CE",
+  "text": "Fly with the Breeze"
+ },
+ {
+  "id": "0x07CF",
+  "text": "Epilogue"
+ },
+ {
+  "id": "0x07D1",
+  "text": "Died at"
+ },
+ {
+  "id": "0x07D2",
+  "text": "Wounded at and parted ways with the company."
+ },
+ {
+  "id": "0x07D3",
+  "text": "Wounded at"
+ },
+ {
+  "id": "0x07D4",
+  "text": ", but remained until the end."
+ },
+ {
+  "id": "0x07D5",
+  "text": "Eirika, Restoration Queen"
+ },
+ {
+  "id": "0x07D6",
+  "text": "Eirika returned to Renais and began the reconstruction effort with her"
+ },
+ {
+  "id": "0x07D7",
+  "text": "Seth, the Silver Knight"
+ },
+ {
+  "id": "0x07D8",
+  "text": "Seth returned to Renais with Ephraim and his fellow knights. His dedic"
+ },
+ {
+  "id": "0x07D9",
+  "text": "Silent Gilliam"
+ },
+ {
+  "id": "0x07DA",
+  "text": "Gilliam returned to his home of Frelia, where he continued to serve th"
+ },
+ {
+  "id": "0x07DB",
+  "text": "Franz the Faithful"
+ },
+ {
+  "id": "0x07DC",
+  "text": "He continued to serve Renais with the same devotion that he had during"
+ },
+ {
+  "id": "0x07DD",
+  "text": "Moulder, Wise Counselor"
+ },
+ {
+  "id": "0x07DE",
+  "text": "After the War of the Stones, Moulder continued to serve the royal fami"
+ },
+ {
+  "id": "0x07DF",
+  "text": "Vanessa, Dutiful Rider"
+ },
+ {
+  "id": "0x07E0",
+  "text": "She remained on active duty as an airborne knight in Frelia's army. He"
+ },
+ {
+  "id": "0x07E1",
+  "text": "Ross, His Father's Son"
+ },
+ {
+  "id": "0x07E2",
+  "text": "He returned to Ide, village of his youth, and helped rebuild it after "
+ },
+ {
+  "id": "0x07E3",
+  "text": "Neimi, the Tearful Archer"
+ },
+ {
+  "id": "0x07E4",
+  "text": "She returned to her village and passed her days in peace and quiet. Ye"
+ },
+ {
+  "id": "0x07E5",
+  "text": "Colm, Good-Natured Thief"
+ },
+ {
+  "id": "0x07E6",
+  "text": "He politely refused an invitation to become a spy for Renais, returnin"
+ },
+ {
+  "id": "0x07E7",
+  "text": "Garcia, the Warrior Reborn"
+ },
+ {
+  "id": "0x07E8",
+  "text": "He returned to Ide to help with its reconstruction after the bandit at"
+ },
+ {
+  "id": "0x07E9",
+  "text": "Innes, King and Strategician"
+ },
+ {
+  "id": "0x07EA",
+  "text": "As time went on, he succeeded his father, Hayden, as king of Frelia. H"
+ },
+ {
+  "id": "0x07EB",
+  "text": "Lute, Prodigy"
+ },
+ {
+  "id": "0x07EC",
+  "text": "After the War of the Stones, Lute returned to Renais to continue her a"
+ },
+ {
+  "id": "0x07ED",
+  "text": "Natasha, Sacred Healer"
+ },
+ {
+  "id": "0x07EE",
+  "text": "Once the war was over, Natasha returned to Grado to help rebuild the e"
+ },
+ {
+  "id": "0x07EF",
+  "text": "Cormag, Aloof Lanceman"
+ },
+ {
+  "id": "0x07F0",
+  "text": "Cormag returned to Grado to assist in the reconstruction of his countr"
+ },
+ {
+  "id": "0x07F1",
+  "text": "Ephraim, Restoration King"
+ },
+ {
+  "id": "0x07F2",
+  "text": "Busy days awaited him upon his return to Renais. He oversaw the rebuil"
+ },
+ {
+  "id": "0x07F3",
+  "text": "Forde, the Wild Knight"
+ },
+ {
+  "id": "0x07F4",
+  "text": "Upon Forde's return to Renais, his secret hobby of painting was discov"
+ },
+ {
+  "id": "0x07F5",
+  "text": "Kyle, Ardent Knight"
+ },
+ {
+  "id": "0x07F6",
+  "text": "His service to the royal family of Renais continued without change. He"
+ },
+ {
+  "id": "0x07F7",
+  "text": "Amelia, Rose of the War"
+ },
+ {
+  "id": "0x07F8",
+  "text": "Following the war, she returned to Grado to assist in her country's re"
+ },
+ {
+  "id": "0x07F9",
+  "text": "Artur, Saint of Light"
+ },
+ {
+  "id": "0x07FA",
+  "text": "Artur moved to Renais to help rebuild the shattered country. He worked"
+ },
+ {
+  "id": "0x07FB",
+  "text": "Gerik, the Desert Tiger"
+ },
+ {
+  "id": "0x07FC",
+  "text": "Gerik continued as a mercenary. Over the years, his reputation grew so"
+ },
+ {
+  "id": "0x07FD",
+  "text": "Tethys, Beloved Dancer"
+ },
+ {
+  "id": "0x07FE",
+  "text": "She danced from city to city, and the entire continent became her stag"
+ },
+ {
+  "id": "0x07FF",
+  "text": "Marisa, the Crimson Flash"
+ },
+ {
+  "id": "0x0800",
+  "text": "Marisa became battalion leader for an elite mercenary force. Many men "
+ },
+ {
+  "id": "0x0801",
+  "text": "Saleh, the Well of Wisdom"
+ },
+ {
+  "id": "0x0802",
+  "text": "Saleh returned to Caer Pelyn, where he remained a faithful servant of "
+ },
+ {
+  "id": "0x0803",
+  "text": "Ewan, Enthusiastic Student"
+ },
+ {
+  "id": "0x0804",
+  "text": "Ewan continued his studies, modeling his life after the teachings of S"
+ },
+ {
+  "id": "0x0805",
+  "text": "L'Arachel, Queen of Light"
+ },
+ {
+  "id": "0x0806",
+  "text": "She succeeded her uncle as ruler of the Rausten Theocracy several year"
+ },
+ {
+  "id": "0x0807",
+  "text": "Dozla of the Steady Axe"
+ },
+ {
+  "id": "0x0808",
+  "text": "As L'Arachel rose to become queen, he remained by her side. Watching L"
+ },
+ {
+  "id": "0x0809",
+  "text": "Rennac, Rich Merchant"
+ },
+ {
+  "id": "0x080A",
+  "text": "L'Arachel summoned Rennac back to Rausten, and he was forced to return"
+ },
+ {
+  "id": "0x080B",
+  "text": "Duessel, Obsidian General"
+ },
+ {
+  "id": "0x080C",
+  "text": "Following the war, Duessel returned to Grado, where he was instrumenta"
+ },
+ {
+  "id": "0x080D",
+  "text": "Myrrh, the Great Dragon"
+ },
+ {
+  "id": "0x080E",
+  "text": "After bidding her farewells to Ephraim, she returned to Darkling Woods"
+ },
+ {
+  "id": "0x080F",
+  "text": "Knoll, Watcher of Darkness"
+ },
+ {
+  "id": "0x0810",
+  "text": "Knoll returned to Grado, where he dedicated himself to rebuilding it a"
+ },
+ {
+  "id": "0x0811",
+  "text": "Joshua, the Tempest King"
+ },
+ {
+  "id": "0x0812",
+  "text": "Joshua returned to Jehanna and ruled over it as king. His skills as a "
+ },
+ {
+  "id": "0x0813",
+  "text": "Graceful Syrene"
+ },
+ {
+  "id": "0x0814",
+  "text": "Syrene continued as commander of Frelia's pegasus knights. Her grace a"
+ },
+ {
+  "id": "0x0815",
+  "text": "Tana, Winged Queen"
+ },
+ {
+  "id": "0x0816",
+  "text": "Tana lived happily in the prosperous post- war Frelia. She flew to Ren"
+ },
+ {
+  "id": "0x0817",
+  "text": "Busy days awaited Eirika and Ephraim as they struggled to rebuild Rena"
+ },
+ {
+  "id": "0x0818",
+  "text": "Upon their return to Renais, Eirika and Seth were wed, with the blessi"
+ },
+ {
+  "id": "0x0819",
+  "text": "After the war, Eirika and Saleh returned to their respective homes. Ei"
+ },
+ {
+  "id": "0x081A",
+  "text": "Following the war, Tana and Eirika remained the best of friends. They "
+ },
+ {
+  "id": "0x081B",
+  "text": "After the war, Eirika and Forde returned to Renais. Eirika spent her d"
+ },
+ {
+  "id": "0x081C",
+  "text": "After the war, Ephraim returned to Renais and Myrrh to Darkling Woods."
+ },
+ {
+  "id": "0x081D",
+  "text": "Ephraim and L'Arachel each returned home after the war, but L'Arachel "
+ },
+ {
+  "id": "0x081E",
+  "text": "Once Renais was stable again, Ephraim and Tana were wed. Innes protest"
+ },
+ {
+  "id": "0x081F",
+  "text": "Natasha returned to Renais with Seth, where the two were wed. The reco"
+ },
+ {
+  "id": "0x0820",
+  "text": "Franz brought Amelia home with him to Renais. Amelia spent a short tim"
+ },
+ {
+  "id": "0x0821",
+  "text": "Gilliam and Syrene returned to Frelia, where they were married. All ag"
+ },
+ {
+  "id": "0x0822",
+  "text": "At Innes's request, Vanessa moved into Castle Frelia where she continu"
+ },
+ {
+  "id": "0x0823",
+  "text": "Forde's love for Vanessa grew after the war, and although she loved hi"
+ },
+ {
+  "id": "0x0824",
+  "text": "Father and son returned to Ide, where they toiled together to rebuild "
+ },
+ {
+  "id": "0x0825",
+  "text": "The childhood friends became lovers first, then husband and wife. Worr"
+ },
+ {
+  "id": "0x0826",
+  "text": "Artur and Lute were married upon their return. Artur handled the house"
+ },
+ {
+  "id": "0x0827",
+  "text": "After the war, Kyle and Lute were married in Renais. Kyle's friends we"
+ },
+ {
+  "id": "0x0828",
+  "text": "When Joshua returned to Jehanna, he took Natasha as his bride and clai"
+ },
+ {
+  "id": "0x0829",
+  "text": "Sometimes, the greatest friends also differ greatly in personality. Wh"
+ },
+ {
+  "id": "0x082A",
+  "text": "Cormag returned to Grado to assist in the reconstruction of his countr"
+ },
+ {
+  "id": "0x082B",
+  "text": "Stories tell of the sparks that flew between L'Arachel and Innes when "
+ },
+ {
+  "id": "0x082C",
+  "text": "Gerik and Tethys remained bound to no nation and beholden to no author"
+ },
+ {
+  "id": "0x082D",
+  "text": "Gerik remained a mercenary, and Marisa became his company's fencing in"
+ },
+ {
+  "id": "0x082E",
+  "text": "Myrrh returned to Darkling Woods, but at Saleh's request, she eventual"
+ },
+ {
+  "id": "0x082F",
+  "text": "Master and student returned to Caer Pelyn to study in peace. Ewan work"
+ },
+ {
+  "id": "0x0830",
+  "text": "Joshua returned to Jehanna with Marisa, where she pledged service to t"
+ },
+ {
+  "id": "0x0831",
+  "text": "L'Arachel was, in time, made queen of Rausten, with Dozla at her side,"
+ },
+ {
+  "id": "0x0832",
+  "text": "Amelia traveled to Ross's hometown, where she decided to remain. Over "
+ },
+ {
+  "id": "0x0833",
+  "text": "After the war, Ewan and Amelia set out, as promised, on a trip around "
+ },
+ {
+  "id": "0x0834",
+  "text": "After the war, Joshua challenged Gerik to a duel in hopes of pressing "
+ },
+ {
+  "id": "0x0835",
+  "text": "Sisters Syrene and Vanessa returned to Frelia after the war for a long"
+ },
+ {
+  "id": "0x0836",
+  "text": "After the reconstruction of Renais, Innes challenged Ephraim to a duel"
+ },
+ {
+  "id": "0x0837",
+  "text": "After the war, Kyle visited Frelia, where he was greeted with a warm r"
+ },
+ {
+  "id": "0x0838",
+  "text": "Upon their return to Grado, Duessel reunited Amelia with her mother. T"
+ },
+ {
+  "id": "0x0839",
+  "text": "Dummy"
+ },
+ {
+  "id": "0x083A",
+  "text": "Dummy"
+ },
+ {
+  "id": "0x083B",
+  "text": "Dummy"
+ },
+ {
+  "id": "0x083C",
+  "text": "Dummy"
+ },
+ {
+  "id": "0x083D",
+  "text": "Dummy"
+ },
+ {
+  "id": "0x083E",
+  "text": "Dummy"
+ },
+ {
+  "id": "0x083F",
+  "text": "Dummy"
+ },
+ {
+  "id": "0x0841",
+  "text": "Once your data is erased, it cannot be restored. Shall I continue?"
+ },
+ {
+  "id": "0x0842",
+  "text": "The data has been erased."
+ },
+ {
+  "id": "0x0843",
+  "text": "Yes"
+ },
+ {
+  "id": "0x0844",
+  "text": "No"
+ },
+ {
+  "id": "0x0845",
+  "text": "Buy"
+ },
+ {
+  "id": "0x0846",
+  "text": "Sell"
+ },
+ {
+  "id": "0x0847",
+  "text": "Ask"
+ },
+ {
+  "id": "0x0848",
+  "text": "Exit"
+ },
+ {
+  "id": "0x0849",
+  "text": "ON"
+ },
+ {
+  "id": "0x084A",
+  "text": "OFF"
+ },
+ {
+  "id": "0x084B",
+  "text": "Throw away ?"
+ },
+ {
+  "id": "0x084C",
+  "text": "You can't visit villages or houses while Silenced."
+ },
+ {
+  "id": "0x084D",
+  "text": "You can't equip this weapon."
+ },
+ {
+  "id": "0x084E",
+  "text": "Your weapon level is too low."
+ },
+ {
+  "id": "0x0851",
+  "text": "You can't use a staff while Silenced."
+ },
+ {
+  "id": "0x0852",
+  "text": "You can't speak while Silenced."
+ },
+ {
+  "id": "0x0853",
+  "text": "You can't enter the arena while Silenced."
+ },
+ {
+  "id": "0x0854",
+  "text": "You can't fight, so you can't enter the arena."
+ },
+ {
+  "id": "0x0856",
+  "text": "There's nothing to repair."
+ },
+ {
+  "id": "0x0857",
+  "text": "Only weapons, tomes, and staves can be repaired."
+ },
+ {
+  "id": "0x0858",
+  "text": "There's no more ammo for the ballista."
+ },
+ {
+  "id": "0x0859",
+  "text": "There's no need for that."
+ },
+ {
+  "id": "0x085A",
+  "text": "This can't be used."
+ },
+ {
+  "id": "0x085B",
+  "text": "Must be above level 10."
+ },
+ {
+  "id": "0x085C",
+  "text": "Must be above level 10."
+ },
+ {
+  "id": "0x085D",
+  "text": "There's no door."
+ },
+ {
+  "id": "0x085F",
+  "text": "For thieves only."
+ },
+ {
+  "id": "0x0860",
+  "text": "Specialized weapon."
+ },
+ {
+  "id": "0x0861",
+  "text": "No doors or chests."
+ },
+ {
+  "id": "0x0862",
+  "text": "Your inventory is full."
+ },
+ {
+  "id": "0x0863",
+  "text": "Item cannot be repaired."
+ },
+ {
+  "id": "0x0864",
+  "text": "You cannot stop in the middle of the tutorial."
+ },
+ {
+  "id": "0x0865",
+  "text": "Your supply convoy is full. Select an item to discard."
+ },
+ {
+  "id": "0x0866",
+  "text": "Your inventory is full. Select an item to discard."
+ },
+ {
+  "id": "0x0867",
+  "text": "Your inventory is full. Send an item to Supply."
+ },
+ {
+  "id": "0x0868",
+  "text": "Select a unit to rescue."
+ },
+ {
+  "id": "0x0869",
+  "text": "Select which space to drop the unit into."
+ },
+ {
+  "id": "0x086A",
+  "text": "Select a unit to receive the traveler."
+ },
+ {
+  "id": "0x086B",
+  "text": "Select a unit to give the traveler to."
+ },
+ {
+  "id": "0x086C",
+  "text": "Select which unit to trade with."
+ },
+ {
+  "id": "0x086D",
+  "text": "Select which unit to steal from."
+ },
+ {
+  "id": "0x086E",
+  "text": "Select which unit to use the staff on."
+ },
+ {
+  "id": "0x086F",
+  "text": "Select which unit to speak to."
+ },
+ {
+  "id": "0x0870",
+  "text": "Select unit to refresh."
+ },
+ {
+  "id": "0x0871",
+  "text": "Select warp point."
+ },
+ {
+  "id": "0x0872",
+  "text": "Reorder your units."
+ },
+ {
+  "id": "0x0873",
+  "text": "Select a weapon to attack with."
+ },
+ {
+  "id": "0x0874",
+  "text": "Select a character to restore HP to."
+ },
+ {
+  "id": "0x0875",
+  "text": "Select character to warp."
+ },
+ {
+  "id": "0x0876",
+  "text": "Select which character to bring next to you."
+ },
+ {
+  "id": "0x0877",
+  "text": "Select a character to restore to normal."
+ },
+ {
+  "id": "0x0878",
+  "text": "Select the character whose weapon needs repair."
+ },
+ {
+  "id": "0x0879",
+  "text": "Select which character's resistance to bolster."
+ },
+ {
+  "id": "0x087A",
+  "text": "Select a door to open."
+ },
+ {
+  "id": "0x087B",
+  "text": "Select a unit to use the staff on."
+ },
+ {
+  "id": "0x087C",
+  "text": "Select an area to light up."
+ },
+ {
+  "id": "0x087D",
+  "text": "Select an area to trap."
+ },
+ {
+  "id": "0x087E",
+  "text": "Select an area to trap."
+ },
+ {
+  "id": "0x087F",
+  "text": "Select a character to bless."
+ },
+ {
+  "id": "0x0880",
+  "text": "Select which space to summon into."
+ },
+ {
+  "id": "0x0881",
+  "text": "Select which space to use picks on."
+ },
+ {
+  "id": "0x0883",
+  "text": "Sent"
+ },
+ {
+  "id": "0x0885",
+  "text": "An error has occurred."
+ },
+ {
+  "id": "0x0886",
+  "text": "Sending map now. Please wait a moment."
+ },
+ {
+  "id": "0x0887",
+  "text": "Map send complete."
+ },
+ {
+  "id": "0x0888",
+  "text": "There is no backup trial map. Ending map send and returning to menu."
+ },
+ {
+  "id": "0x0889",
+  "text": "This unit has no usable weapons, so it cannot join."
+ },
+ {
+  "id": "0x088A",
+  "text": "This unit cannot be deployed."
+ },
+ {
+  "id": "0x088B",
+  "text": "If you have no usable weapons, you cannot attack."
+ },
+ {
+  "id": "0x088C",
+  "text": "Do you surrender?"
+ },
+ {
+  "id": "0x088D",
+  "text": "You can do no damage. Would you like to quit?"
+ },
+ {
+  "id": "0x088E",
+  "text": "Linking error. Turn the power off, check the connections, and retry."
+ },
+ {
+  "id": "0x088F",
+  "text": "Already used"
+ },
+ {
+  "id": "0x0890",
+  "text": "Inventory full"
+ },
+ {
+  "id": "0x0891",
+  "text": "Send data from Chapter 2+"
+ },
+ {
+  "id": "0x0892",
+  "text": "This data can't be used on a trial map."
+ },
+ {
+  "id": "0x0893",
+  "text": "Sacred Dragon added to Sound Room"
+ },
+ {
+  "id": "0x0894",
+  "text": "Palace Silezia added to Sound Room"
+ },
+ {
+  "id": "0x0895",
+  "text": "Select cleared save data."
+ },
+ {
+  "id": "0x0896",
+  "text": "Welcome to the armory! These are the weapons we have for sale."
+ },
+ {
+  "id": "0x0897",
+  "text": "Welcome to the general store! Here are all the items we have for sale."
+ },
+ {
+  "id": "0x0898",
+  "text": "Come back again."
+ },
+ {
+  "id": "0x0899",
+  "text": "Hope to see you again!"
+ },
+ {
+  "id": "0x089A",
+  "text": "Welcome to the armory. I deal in all sorts of goods."
+ },
+ {
+  "id": "0x089B",
+  "text": "Welcome to the general store. How can I help you?"
+ },
+ {
+  "id": "0x089C",
+  "text": "Shhh... Hee hee... This is a secret shop!"
+ },
+ {
+  "id": "0x089D",
+  "text": "Do you need anything else?"
+ },
+ {
+  "id": "0x089E",
+  "text": "Anything else for you?"
+ },
+ {
+  "id": "0x089F",
+  "text": "Well? Anything else for you?"
+ },
+ {
+  "id": "0x08A0",
+  "text": "Do you need anything else?"
+ },
+ {
+  "id": "0x08A1",
+  "text": "Can I do anything else for you?"
+ },
+ {
+  "id": "0x08A2",
+  "text": "Is there anything else you need?"
+ },
+ {
+  "id": "0x08A3",
+  "text": "What would you like?"
+ },
+ {
+  "id": "0x08A4",
+  "text": "What can I get for you?"
+ },
+ {
+  "id": "0x08A5",
+  "text": "What do you need?"
+ },
+ {
+  "id": "0x08A6",
+  "text": "Anything else?"
+ },
+ {
+  "id": "0x08A7",
+  "text": "Anything else?"
+ },
+ {
+  "id": "0x08A8",
+  "text": "Any other requests?"
+ },
+ {
+  "id": "0x08A9",
+  "text": "What do you want to sell?"
+ },
+ {
+  "id": "0x08AA",
+  "text": "What are you selling?"
+ },
+ {
+  "id": "0x08AB",
+  "text": "What would you sell?"
+ },
+ {
+  "id": "0x08AC",
+  "text": "You've got nothing to sell!"
+ },
+ {
+  "id": "0x08AD",
+  "text": "You have nothing to sell."
+ },
+ {
+  "id": "0x08AE",
+  "text": "You've got nothing to sell!"
+ },
+ {
+  "id": "0x08AF",
+  "text": "Selling anything else?"
+ },
+ {
+  "id": "0x08B0",
+  "text": "Anything else to sell?"
+ },
+ {
+  "id": "0x08B1",
+  "text": "What else are you selling?"
+ },
+ {
+  "id": "0x08B2",
+  "text": "You don't have the money!"
+ },
+ {
+  "id": "0x08B3",
+  "text": "You're short of funds."
+ },
+ {
+  "id": "0x08B4",
+  "text": "Heh! Not enough money!"
+ },
+ {
+  "id": "0x08B5",
+  "text": "How does gold sound to you?"
+ },
+ {
+  "id": "0x08B6",
+  "text": "That's worth gold. Is that all right?"
+ },
+ {
+  "id": "0x08B7",
+  "text": "That is worth gold. Is that acceptable?"
+ },
+ {
+  "id": "0x08B8",
+  "text": "Come back again."
+ },
+ {
+  "id": "0x08B9",
+  "text": "Drop in again."
+ },
+ {
+  "id": "0x08BA",
+  "text": "Hee hee... Buh-bye!"
+ },
+ {
+  "id": "0x08BB",
+  "text": "I can't buy that."
+ },
+ {
+  "id": "0x08BC",
+  "text": "I can't buy that."
+ },
+ {
+  "id": "0x08BD",
+  "text": "Hee hee... Wait a minute. I can't buy that!"
+ },
+ {
+  "id": "0x08BE",
+  "text": "Looks like you're full. Send it to storage?"
+ },
+ {
+  "id": "0x08BF",
+  "text": "Your hands are full. Send it to storage?"
+ },
+ {
+  "id": "0x08C0",
+  "text": "Your hands are full. Send it to storage?"
+ },
+ {
+  "id": "0x08C1",
+  "text": "Looks like you're full."
+ },
+ {
+  "id": "0x08C2",
+  "text": "Your hands are full."
+ },
+ {
+  "id": "0x08C3",
+  "text": "Your hands are full."
+ },
+ {
+  "id": "0x08C4",
+  "text": "Right. I'll send it now."
+ },
+ {
+  "id": "0x08C5",
+  "text": "Right. I'll have it sent."
+ },
+ {
+  "id": "0x08C6",
+  "text": "Heh heh... I'll send it then."
+ },
+ {
+  "id": "0x08C7",
+  "text": "No? Too bad. You could take it if you made room."
+ },
+ {
+  "id": "0x08C8",
+  "text": "That's a shame. You could carry it if you made room."
+ },
+ {
+  "id": "0x08C9",
+  "text": "Ah, well... You could take it if you made room."
+ },
+ {
+  "id": "0x08CA",
+  "text": "Too bad you don't have a supply convoy to send it to."
+ },
+ {
+  "id": "0x08CB",
+  "text": "If you had some storage, I could send it there..."
+ },
+ {
+  "id": "0x08CC",
+  "text": "If you had some storage, I could send it to you."
+ },
+ {
+  "id": "0x08CD",
+  "text": "Your storage is full, too! Rearrange your things!"
+ },
+ {
+  "id": "0x08CE",
+  "text": "Your storage is full, too. Try again later."
+ },
+ {
+  "id": "0x08CF",
+  "text": "Heh... Your storage is full, too. Rearrange things..."
+ },
+ {
+  "id": "0x08D0",
+  "text": "Welcome to the arena!"
+ },
+ {
+  "id": "0x08D2",
+  "text": "Would you like to wager gold?"
+ },
+ {
+  "id": "0x08D3",
+  "text": "Good luck. Don't get yourself killed."
+ },
+ {
+  "id": "0x08D4",
+  "text": "What's that? Bah! Get outta here!"
+ },
+ {
+  "id": "0x08D5",
+  "text": "Fight 'til you drop, or press the B Button to yield."
+ },
+ {
+  "id": "0x08D6",
+  "text": "So you won, eh? Here's your prize. gold."
+ },
+ {
+  "id": "0x08D7",
+  "text": "Ahh, you lost? I'd hoped for better from you."
+ },
+ {
+  "id": "0x08D8",
+  "text": "What? You yield? Well, your gold is mine, then!"
+ },
+ {
+  "id": "0x08D9",
+  "text": "Looks like no one wins. Here's your money back."
+ },
+ {
+  "id": "0x08DA",
+  "text": "You don't have the money! Try again later."
+ },
+ {
+  "id": "0x08DB",
+  "text": "The continent of Magvel. For some 800 years, a quiet peace reigned in "
+ },
+ {
+  "id": "0x08DC",
+  "text": "Eirika and her companions have liberated the border castle. Alongside "
+ },
+ {
+  "id": "0x08DD",
+  "text": "The world map shows the continent in its entirety. Castles, towns, and"
+ },
+ {
+  "id": "0x08DE",
+  "text": "King Hayden apologizes for being unable to spare soldiers. However, he"
+ },
+ {
+  "id": "0x08DF",
+  "text": "Once cleared, battle sites become bases. You can manage items on any b"
+ },
+ {
+  "id": "0x08E0",
+  "text": "Eirika and company pursue the thief who stole her bracelet. Their chas"
+ },
+ {
+  "id": "0x08E1",
+  "text": "With her bracelet recovered, Eirika sets out with renewed determinatio"
+ },
+ {
+  "id": "0x08E2",
+  "text": "An ominous wave of dark creatures washes over the continent... Eirika'"
+ },
+ {
+  "id": "0x08E3",
+  "text": "Eirika suppresses her feelings of unease and continues to search for h"
+ },
+ {
+  "id": "0x08E4",
+  "text": "Rumors say that Ephraim has been defeated and taken prisoner. Now Eiri"
+ },
+ {
+  "id": "0x08E5",
+  "text": "The Tower of Valni has appeared to the east of Castle Frelia on the wo"
+ },
+ {
+  "id": "0x08E6",
+  "text": "Eirika chooses to travel by sea to the theocracy of Rausten. Her searc"
+ },
+ {
+  "id": "0x08E7",
+  "text": "Carcino has betrayed Frelia and joined forces with Grado. Carcino's tr"
+ },
+ {
+  "id": "0x08E8",
+  "text": "The Caer Pelyn Range... According to Ewan, a little-known passage to J"
+ },
+ {
+  "id": "0x08E9",
+  "text": "Jehanna, home of dancing white sands. This largely barren desert natio"
+ },
+ {
+  "id": "0x08EA",
+  "text": "Thanks to the arrival of reinforcements from Princess L'Arachel of Rau"
+ },
+ {
+  "id": "0x08EB",
+  "text": "Jehanna Hall has capitulated to Grado's forces and the Knights of Raus"
+ },
+ {
+  "id": "0x08EC",
+  "text": "The capital of Renais. After the twins' absence, seeing their home rui"
+ },
+ {
+  "id": "0x08ED",
+  "text": "The Sacred Stones that defeated the Demon King radiate a constant and "
+ },
+ {
+  "id": "0x08EE",
+  "text": "The group sets off in search of Grado's elusive Imperial Prince Lyon. "
+ },
+ {
+  "id": "0x08EF",
+  "text": "The Sacred Stone of Renais has been broken. Constant strife with dark "
+ },
+ {
+  "id": "0x08F0",
+  "text": "According to legend, the Sacred Stones have sealed evil away from the "
+ },
+ {
+  "id": "0x08F1",
+  "text": "Ephraim begins his march south toward Grado from Castle Frelia. Upon c"
+ },
+ {
+  "id": "0x08F2",
+  "text": "A former lance instructor to Ephraim, Grado's General Duessel often ca"
+ },
+ {
+  "id": "0x08F3",
+  "text": "General Duessel tells them of the enigmatic Dark Stone. The product of"
+ },
+ {
+  "id": "0x08F4",
+  "text": "Ephraim leads the group to Za'albul Marsh in search of the missing Myr"
+ },
+ {
+  "id": "0x08F5",
+  "text": "Myrrh returns safely to Ephraim's side. A noble warrior to the end, Se"
+ },
+ {
+  "id": "0x08F6",
+  "text": "Ephraim's sister is in danger. Grado's General Caellach has attacked J"
+ },
+ {
+  "id": "0x08F7",
+  "text": "The capital of Renais. After the twins' absence, seeing their home rui"
+ },
+ {
+  "id": "0x08F8",
+  "text": "The Sacred Stones that defeated the Demon King radiate a constant and "
+ },
+ {
+  "id": "0x08F9",
+  "text": "The group sets off in search of Grado's elusive Imperial Prince Lyon. "
+ },
+ {
+  "id": "0x08FA",
+  "text": "The Sacred Stone of Renais has been broken. Constant strife with dark "
+ },
+ {
+  "id": "0x08FB",
+  "text": "According to legend, the Sacred Stones have sealed evil away from the "
+ },
+ {
+  "id": "0x08FC",
+  "text": "Retreat?"
+ },
+ {
+  "id": "0x08FD",
+  "text": "Proceed to next floor?"
+ }
+]

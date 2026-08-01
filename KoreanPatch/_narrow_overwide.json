@@ -1,0 +1,29 @@
+[
+ {
+  "file": "TMGC_Buildfiles/Text/EarthPower.txt",
+  "id": "0x325",
+  "narrow": false,
+  "budget": 34,
+  "width": 48,
+  "line": "아니무스[X]",
+  "samples": 7
+ },
+ {
+  "file": "TMGC_Buildfiles/Text/EarthPower.txt",
+  "id": "0x326",
+  "narrow": false,
+  "budget": 34,
+  "width": 36,
+  "line": "룩수스[X]",
+  "samples": 7
+ },
+ {
+  "file": "TMGC_Buildfiles/Text/EarthPower.txt",
+  "id": "0x327",
+  "narrow": false,
+  "budget": 34,
+  "width": 36,
+  "line": "녹투스[X]",
+  "samples": 7
+ }
+]
