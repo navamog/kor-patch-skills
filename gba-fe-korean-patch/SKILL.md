@@ -16,7 +16,9 @@ description: >-
   text, dialogue that seems to skip scenes, a syllable that garbles mid-line and
   then recovers, a literal token like [8022] printed on screen, labels
   overlapping their values, names clipped in a column, black smears over menu
-  entries, chapter titles that never appear, or logo tiles with correct shapes
+  entries, chapter titles that never appear, translated text whose black and
+  white come out reversed on menus but correct in the dialogue box, background
+  showing through the inside of letters, or logo tiles with correct shapes
   but wrong colours.
 ---
 
@@ -35,6 +37,7 @@ self-contained.
 | Text table, control tokens, encoder, build guards | `references/text-pipeline.md` |
 | Translation waves, verification, terminology | `references/waves-and-verification.md` |
 | **Line width budgets — blank boxes, garbled runs, smeared menus** | `references/line-width.md` |
+| **Glyph faces — text inverted on menus, mushy, background showing inside letters** | `references/glyph-faces.md` |
 | Fixed-width UI, fonts, what to leave in English | `references/ui-layout.md` |
 | Hack ships its buildfiles: rebuild-from-source workflow | `references/source-rebuild.md` |
 | Title logo / sprite graphics, LZ77 | `references/graphics.md` |
@@ -68,6 +71,11 @@ screen:
 - 815 lines were too wide for their box, so the engine dropped them. The text
   was perfect Korean and the ROM bytes matched the source exactly; the boxes
   were simply blank on screen.
+- A glyph face was redesigned four times from screenshots, each round fixing one
+  surface and breaking another, because the ink colour was being inferred from
+  sampled pixels. The palettes differ per window; the ROM's own glyph table said
+  which index was the letter, and reading it settled in one run what four builds
+  could not.
 
 When you finish a stage, boot the ROM and look. When a symptom appears, prefer a
 **control experiment** over reasoning: change one thing to a known-good value and
@@ -83,7 +91,13 @@ looked perfect.
    three ways the population hides in `references/source-rebuild.md`.
 2. **Build the renderer** (glyph bank + hooks) and get one Korean string on
    screen before translating anything at scale. Count the hooks — entry points
-   that walk a string one byte at a time will not render UTF-8.
+   that walk a string one byte at a time will not render UTF-8. **Decode the
+   ROM's own glyphs before drawing yours**: which 2bpp index is the letter,
+   which is the shadow or outline, and whether counters are filled. The engine
+   ships more than one font and they use opposite rules, so a bank drawn to the
+   wrong one comes out colour-inverted on half the game. `references/glyph-faces.md`
+   — this is the single largest time sink in the domain and it is a twenty-line
+   script to avoid.
 3. **Add guards before the first wave**, not after. A guard that rejects a
    broken line is worth more than any amount of later auditing, and retrofitting
    guards means re-verifying everything already written. **Include the width
